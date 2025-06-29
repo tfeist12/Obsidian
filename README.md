@@ -1,3 +1,1 @@
-## Obsidian Notes Git Archive 
-
-Test
+## Obsidian Notes Git Archive

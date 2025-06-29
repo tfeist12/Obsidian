@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "02cd881b7795f8ce",
+        "id": "a181c5cda07f076d",
         "type": "tabs",
         "children": [
           {
-            "id": "37ba0924e7ee26f7",
+            "id": "1aa785be22da0075",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -157,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37ba0924e7ee26f7",
+  "active": "1aa785be22da0075",
   "lastOpenFiles": [
     "Obsidian/README.md",
     "/Obsidian/README.md",

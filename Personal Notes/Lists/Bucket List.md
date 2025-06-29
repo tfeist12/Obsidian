@@ -1,0 +1,57 @@
+- [ ] Heli Ski
+- [ ] Pilot's License
+- [ ] CES
+- [ ] ‎Skydive?
+- [ ] Porsche 911
+- [ ] Take it for a track day
+- [ ] ‎Rolex
+- [ ] Own a boat
+- [ ] See the Northern Lights
+- [ ] Salmon fishing with Logan in Vancouver
+- [ ] Bartending license
+- [ ] Saber Champagne
+- [ ] Build Custom Hardline water cooled PC
+- [ ] Salar de Uyuni, Bolivia
+- [ ] Join Ski Patrol
+- [ ] Do a Spa day
+- [ ] Tear Drop Camper or Camper Van
+- [ ] Run the Bolder Boulder / Fortitude
+- [ ] Swim in Moraine Lake
+- [x] Global Nexus
+- [ ] Master's Degree
+- [ ] Lobster Party
+- [ ] Autobahn Drive
+- [ ] St Mary's Glacier
+- [ ] Ski Bum a season
+- [ ] Run a Marathon
+- [ ] Take a cooking class
+- [ ] Own a DSLR camera -> Canon 200d/250d sl2/sl3
+- [ ] Night Skiing
+- [ ] Banff Springs Hotel
+- [ ] X Games
+- [x] Build a custom mechanical keyboard
+- [ ] Go Bikepacking
+- [ ] Triathlon?
+- [ ] Build a custom home
+- [ ] Oktoberfest in Bavaria
+- [ ] Rocky Mountaineer train trip
+- [ ] World Junior Championship Live
+- [ ] 50 best restaurants in the world
+- [ ] Ski in Japan
+- [ ] Burning man
+- [ ] Alaska Trip
+- [x] Motorcycle License
+- [x] Cat Ski
+- [x] ‎Custom Ski Boots
+- [x] ‎Own a house
+- [x] First Class Flight
+- [x] Canada Goose Jacket
+- [x] Own Two bikes
+- [x] Sunshine Mountain Lodge
+- [ ] Torngat Mountains National Park
+- [ ] Sea of stars Maldives
+- [ ] See a rocket launch
+- [ ] French kiss a French girl
+- [ ] Rock show in England
+- [ ] Ruka ski resort polar festival
+- [ ] Ski in July

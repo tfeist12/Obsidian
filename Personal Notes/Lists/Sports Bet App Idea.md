@@ -1,0 +1,16 @@
+- First off, I very clearly need to understand sports betting better
+- I want to gamify sports betting ==better==
+- Would you rather but for sports betting
+- Sports bet over under at a frequency
+- Easy, medium, hard and live leagues
+- Harder is faster. Less time to think
+- Frequency depends on both the sport and the league
+- Either use AI or experts to generate questions. 
+- Joel - When you have the over under nobody wants to see the under
+- Joel - If you bet, usually you watch. Usually you want the over. Could tie this in with advertising somehow
+- 90% bet with their heart, not their head. Capitalize on that
+- Look into amount of people who sports bet. Over vs under. Need tons of stats to make this work in your favour
+- Need dad to share his excel skills to start this. Make bets on a ton of different input stats
+- Each player is ranked on a bunch of different stats. Much like an NHL <n> game. Could change every season.
+- Socially I hate this, but economically I think this would work
+- 

@@ -1,0 +1,23 @@
+- Thrift store haul and photoshoot
+- Dinner and movie or drinks
+- Roller blading or ice skating
+- Trampoline park
+- Mini golf
+- Museum
+- Hike
+- People watching
+- Make dinner together then watch movie
+- Ski date
+- Bike ride
+- Gym date
+- Trivia
+- Dress up and go out
+- Escape room
+- Brewery
+- Wine tasting
+- Go to the park
+- Concert
+- Volunteer together
+- Star gaze
+- Foco ghost tour
+- Food truck rally

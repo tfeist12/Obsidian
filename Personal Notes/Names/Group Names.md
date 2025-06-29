@@ -1,0 +1,12 @@
+Biochemistry Folks:
+- Alina
+- Austin
+- Andrew 2x
+- Adam
+- Naly
+- Stephen
+- Spencer
+- Lily
+- Wyatt
+- Margot or Margret
+- Gustavo

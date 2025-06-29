@@ -1,0 +1,5 @@
+- Data Analytics
+- Altium Designer
+- LVM
+- White Hat Hacking
+- Machine Learning

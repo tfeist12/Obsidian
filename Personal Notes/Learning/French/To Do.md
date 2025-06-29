@@ -1,0 +1,5 @@
+- Continue Preply lesson with Anthony
+- Look more into company i found on insta
+- Finish Short Stories in French book
+- Break down Alphabet in notes - [IPA](https://en.wikipedia.org/wiki/Help:IPA/French)
+- Try watching a movie I know in French with subtitles

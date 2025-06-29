@@ -1,0 +1,32 @@
+Ice Breakers
+- Are you an open sharer or a question asker
+- What's the most excited you've been in the last year
+- Favourite food, drinks, snacks?
+- Favourite Books, concerts, music, movies, shows
+	- What’s the last of each you saw?
+	- What’s your favourite YouTube channel?
+- Favorite season and why
+- Unique talents
+- Lets say you won the lottery, what would be the first thing you do?
+- What superpower would you want?
+- Would you like to be famous?
+	- Would you rather be a rockstar or professional athlete?
+- What do you collect?
+- What are your pet peeves?
+- Most and least favorite jobs you've had
+
+More Personal
+- What's something I wouldn't guess about you?
+- What characteristic do you value most in someone else
+- How would your friends describe you
+- Favourite date idea?
+- Spontaneity or stability?
+- Optimistic or pessimistic about the future
+- If you could change one thing about the world what would it be.
+- What do you think we have in common
+- What are traits from your parents you hope you adopt / not adopt
+- What are your long term goals
+- What’s your love language
+- What do you love most about your life right now
+- Who are the most important people in your life?
+- What does a healthy relationship look like for you

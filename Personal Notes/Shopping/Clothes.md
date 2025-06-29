@@ -1,0 +1,9 @@
+- Marmot hat
+- Black button up
+- Brown Levis
+- Custom cowboy hat
+- Sherpa - Kangtega 1/4 zip sweater - M
+- Light brown leather belt
+- Dress white sneakers
+- Lululemon ABC classic versatwill shorts
+- Ted’s summer sport coat

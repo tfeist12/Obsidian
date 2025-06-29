@@ -1,0 +1,6 @@
+- Caldera hot springs
+- Honey tour
+- Coffee tour
+- Cloud forest
+- Pool Day
+- Beach Day

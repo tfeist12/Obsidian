@@ -1,0 +1,7 @@
+- Protecting the outdoors
+- Adventure
+- Improving technology
+- Hard work
+- Equality
+- Family
+- Kindness

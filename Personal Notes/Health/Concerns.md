@@ -1,0 +1,4 @@
+- Difficulty focusing at work
+- Dysphagia
+- Hormone levels
+- Blood test results

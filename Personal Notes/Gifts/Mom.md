@@ -1,0 +1,5 @@
+- [ ] Le Cruset lid - square and blue
+- [ ] Passport case - Olive green
+- [ ] Kitchen torch
+- [x] [Kitchen Aid Artisan Stand Mixer](https://www.target.com/p/kitchenaid-artisan-10-speed-stand-mixer-hearth-38-hand-8482-with-magnolia/-/A-80272482?ref=tgt_adv_xsp&AFID=google_pla_df&fndsrc=tmnv&DFA=71700000117966236&CPNG=PLA_DVM%2Ba064R000015PZxBQAW-Kitchenaid_2024+Q1_Google+Search-1222887&adgroup=PLA_Kitchenaid&LID=700000001393753pgs&network=g&device=c&location=1014517&gad_source=1&gclid=CjwKCAjww_iwBhApEiwAuG6ccLxt7yFOSIkmtpsnyLuhkGXibs9CkChLVNIrqch26QJl67_WZ8NzZxoC63IQAvD_BwE&gclsrc=aw.ds)
+- [x] Picture light

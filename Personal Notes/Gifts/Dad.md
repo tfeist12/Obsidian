@@ -1,0 +1,24 @@
+- [ ] Hockey Canada Gear
+- [ ] Snowmobile/ski suit
+- [ ] Chip and stick
+- [ ] Meater block
+- [ ] Dewalt dual battery charger
+- [X] Stoko pants
+- [x] Shop TV
+- [x] Skidoo linq shovel holder. Ideally small
+- [ ] Klim Snowmobile boots
+- [ ] Seringhetti glasses
+- [ ] Rowing Machine
+- [x] Electric travel toothbrush
+- [x] Ski boots
+- [ ] Blundstone Chelsea
+- [ ] Ski pants
+- [ ] 3/4 zip
+- [x] Gym Equipment
+- [ ] Tundra Tires for Yeti Cooler
+- [ ] Yellow glasses for driving in snow
+- [ ] Phone case
+- [ ] Stove fan
+- [ ] Red baron gloves
+- [ ] Pegboard equipment for cabin shop
+- [ ] Tera Pump

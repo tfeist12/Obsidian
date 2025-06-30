@@ -10,24 +10,19 @@ Work:
 	- Need to test
 	- Will put out a review once one of my other two switch controller stories gets checked in
 - Need to test webhook changes on top of changes currently out for review so need to get those checked in
+Validation Logic: 
+	if nil -> something don't validate
+	if something -> something validate
 - Move firmware validation code into the webhook 
 - Started writing webhook unit tests
 - Once this is complete I can start putting it all together
+	Switch Firmware update steps:
+	1. Set Offline request api -> OFF
+	2. Upload firmware request api
+	3. Reboot switch request api
+	4. Set Offline request api -> ON
 - Renew Virtual Digital Badge
 
-Questions for Britt:
-- Can I listen in on architecture meetings?
-- Planning meetings
-- Since we are at mid year review point is there anything you would like to see from me
-- If Charan asks for more data intelligence input please loop me in
 
-Switch Firmware update steps:
-1. Set Offline request api -> OFF
-2. Upload firmware request api
-3. Reboot switch request api
-4. Set Offline request api -> ON
 
-use mutating webhook
-if nil -> something don't validate
-if something -> something validate
 

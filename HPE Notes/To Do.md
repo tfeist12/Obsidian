@@ -1,4 +1,4 @@
-**Week of 6/2/25:**
+**Week of 6/30/25:**
 
 Work:
 - Make story for updating the kubectl dsp plugin.
@@ -9,6 +9,11 @@ Work:
 	- Other validations are part of another story that matt defined
 	- Need to test
 	- Will put out a review once one of my other two switch controller stories gets checked in
+- Need to test webhook changes on top of changes currently out for review so need to get those checked in
+- Move firmware validation code into the webhook 
+- Started writing webhook unit tests
+- Once this is complete I can start putting it all together
+- Renew Virtual Digital Badge
 
 Questions for Britt:
 - Can I listen in on architecture meetings?
@@ -26,5 +31,3 @@ use mutating webhook
 if nil -> something don't validate
 if something -> something validate
 
-Need to test webhook changes on top of changes currently out for review so need to get those checked in
-write webhook unit tests 

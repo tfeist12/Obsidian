@@ -21,7 +21,7 @@ Validation Logic:
 	2. Upload firmware request api
 	3. Reboot switch request api
 	4. Set Offline request api -> ON
-- Renew Virtual Digital Badge
+- Renewed Virtual Digital Badge
 
 
 

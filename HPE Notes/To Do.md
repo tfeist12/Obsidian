@@ -1,9 +1,7 @@
 **Week of 6/30/25:**
 
-Work:
+In Progress:
 - Make story for updating the kubectl dsp plugin.
-- Checked in the cli user rbac permissions for oncs P0 bug fix
-- Reached out to one of the DSCC folks because I never heard from them after the integration meeting on tuesday. Hoping to check if I can check in the switch port name addition to the CRD.
 - More editing for my switch controller webhook changes
 	- Currently only validating firmware version
 	- Other validations are part of another story that matt defined
@@ -19,8 +17,10 @@ Work:
 	4. Set Offline request api -> ON
 
 Complete:
+- Checked in the cli user rbac permissions for oncs P0 bug fix
 - Renewed Virtual Digital Badge
 - Finished writing webhook unit tests
+- Check in with DSCC folks about switch port name field change
 
 Update notes:
 	Update from prj-fleetos -> 

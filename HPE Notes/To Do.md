@@ -21,6 +21,7 @@ Complete:
 - Renewed Virtual Digital Badge
 - Finished writing webhook unit tests
 - Check in with DSCC folks about switch port name field change
+- Pushed switch port name change
 
 Update notes:
 	Update from prj-fleetos -> fake switch firmware update version

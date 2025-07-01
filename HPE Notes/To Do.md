@@ -21,6 +21,7 @@ Complete:
 - Renewed Virtual Digital Badge
 - Finished writing webhook unit tests
 - Check in with DSCC folks about switch port name field change
+	- Need to provide the build number of this R3 change
 - Pushed switch port name change
 
 Update notes:

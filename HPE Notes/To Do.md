@@ -23,4 +23,4 @@ Complete:
 - Check in with DSCC folks about switch port name field change
 
 Update notes:
-	Update from prj-fleetos -> 
+	Update from prj-fleetos -> fake switch firmware update version

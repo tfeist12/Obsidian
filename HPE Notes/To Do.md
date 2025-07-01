@@ -10,9 +10,6 @@ Work:
 	- Need to test
 	- Will put out a review once one of my other two switch controller stories gets checked in
 - Need to test webhook changes on top of changes currently out for review so need to get those checked in
-- Webhook Validation Logic: 
-	if nil -> something don't validate
-	if something -> something validate
 - Move firmware validation code into the webhook 
 - Started writing webhook unit tests
 - Once this is complete I can start putting it all together

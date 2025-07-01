@@ -11,14 +11,16 @@ Work:
 	- Will put out a review once one of my other two switch controller stories gets checked in
 - Need to test webhook changes on top of changes currently out for review so need to get those checked in
 - Move firmware validation code into the webhook 
-- Started writing webhook unit tests
 - Once this is complete I can start putting it all together
 	Switch Firmware update steps:
 	1. Set Offline request api -> OFF
 	2. Upload firmware request api
 	3. Reboot switch request api
 	4. Set Offline request api -> ON
-- Renewed Virtual Digital Badge
 
-push switch port name change to R3 - rebase change
-provide build # to dscc folks
+Complete:
+- Renewed Virtual Digital Badge
+- Finished writing webhook unit tests
+
+Update notes:
+	Update from prj-fleetos -> 

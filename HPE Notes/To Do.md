@@ -10,11 +10,6 @@ In Progress:
 - Need to test webhook changes on top of changes currently out for review so need to get those checked in
 - Move firmware validation code into the webhook 
 - Once this is complete I can start putting it all together
-	Switch Firmware update steps:
-	1. Set Offline request api -> OFF
-	2. Upload firmware request api
-	3. Reboot switch request api
-	4. Set Offline request api -> ON
 
 Complete:
 - Checked in the cli user rbac permissions for oncs P0 bug fix
@@ -23,6 +18,17 @@ Complete:
 - Check in with DSCC folks about switch port name field change
 	- Need to provide the build number of this R3 change
 - Pushed switch port name change
+- Pushed switch firmware crd update and fake reconcile loop
+
+[AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
+	Required switchd
+	Switch Firmware update steps:
+		1. Set Offline request api -> OFF
+		2. Upload firmware request api
+		3. Reboot switch request api
+		4. Set Offline request api -> ON
+	Switchd GRPC client updates will be required
 
 Update notes:
-	Update from prj-fleetos -> fake switch firmware update version
+	Potentially use a mutating webhook that runs on create and update to populate spec fields
+	This could render the creation reconciliation operation obsolete 

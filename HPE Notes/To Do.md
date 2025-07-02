@@ -21,14 +21,17 @@ Complete:
 - Pushed switch firmware crd update and fake reconcile loop
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
-	Required switchd
 	Switch Firmware update steps:
 		1. Set Offline request api -> OFF
 		2. Upload firmware request api
 		3. Reboot switch request api
 		4. Set Offline request api -> ON
-	Switchd GRPC client updates will be required
+	Requirements:
+	- Switchd to report if firmware version has been uploaded to the inactive partition ([AS-189429](https://jira.storage.hpecorp.net/browse/AS-189429 "Provide FW version for the secondary partition in ListSwitches/\"show switch\"")) or use a fixed wait time after which we assume the upload is complete.
+	- Switchd GRPC client updates
+	- State machine
+	- Unit test updates
 
 Update notes:
-	Potentially use a mutating webhook that runs on create and update to populate spec fields
-	This could render the creation reconciliation operation obsolete 
+- Potentially use a mutating webhook that runs on create and update to populate spec fields
+- This could render the creation reconciliation operation obsolete 

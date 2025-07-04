@@ -2,14 +2,11 @@
 
 In Progress:
 - Make story for updating the kubectl dsp plugin.
-- More editing for my switch controller webhook changes
-	- Currently only validating firmware version
-	- Other validations are part of another story that matt defined
-	- Need to test
-	- Will put out a review once one of my other two switch controller stories gets checked in
-- Need to test webhook changes on top of changes currently out for review so need to get those checked in
-- Move firmware validation code into the webhook 
+- Currently working on switch controller webhook changes
+	- Added a mutating webhook that should solve the update scenario we discussed
+	- Submit a new build and test it
 - Once this is complete I can start putting it all together
+- Need to take a look at more bugs after this
 
 Complete:
 - Checked in the cli user rbac permissions for oncs P0 bug fix

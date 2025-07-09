@@ -22,3 +22,4 @@
 - [ ] Red baron gloves
 - [ ] Pegboard equipment for cabin shop
 - [ ] Tera Pump
+- [ ] Boat speaker

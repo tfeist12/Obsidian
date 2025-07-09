@@ -32,3 +32,4 @@
 - I fractured my elbow long boarding, I’m allergic to Frosted Flakes, I’m Canadian
 - My love language is turning on the heated seat for you
 - I go crazy for a deep philosophical discussion at 2am
+- I’m looking for a new best friend for by buddy’s girlfriend

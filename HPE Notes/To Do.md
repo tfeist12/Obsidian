@@ -2,7 +2,7 @@
 
 In Progress:
 - Update nvim config and push to repo
-- Secure development training berfo
+- Secure development training before taking off next week
 - Check on goals
 - Make story for updating the kubectl dsp plugin.
 - Review has been posted for the switch controller webhook changes

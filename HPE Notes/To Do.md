@@ -31,4 +31,19 @@ Complete:
 
 Update notes:
 - Potentially use a mutating webhook that runs on create and update to populate spec fields
-- This could render the creation reconciliation operation obsolete 
+- This could render the creation reconciliation operation obsolete
+
+
+ delete mode 100644 Obsidian/HPE Notes/Docker.md
+ delete mode 100644 Obsidian/HPE Notes/Git.md
+ delete mode 100644 Obsidian/HPE Notes/Golang.md
+ delete mode 100644 Obsidian/HPE Notes/Intern Coordinator/2022/Community Service Email Draft.md
+ delete mode 100644 Obsidian/HPE Notes/Intern Coordinator/2022/Community Service.md
+ delete mode 100644 Obsidian/HPE Notes/Intern Coordinator/2022/End of Summer Celebration.md
+ delete mode 100644 Obsidian/HPE Notes/Intern Coordinator/2022/Mentorship Week 1.md
+ delete mode 100644 Obsidian/HPE Notes/Intern Coordinator/2022/Mentorship Week 2.md
+ delete mode 100644 Obsidian/HPE Notes/Intern Coordinator/2022/Welcome Picnic.md
+ delete mode 100644 Obsidian/HPE Notes/K9/Daily Scrum/2024/01-10.md
+ delete mode 100644 Obsidian/HPE Notes/K9/Daily Scrum/2024/01-16.md
+ delete mode 100644 Obsidian/HPE Notes/K9/Daily Scrum/2024/01-17.md
+ delete mode 100644 Obsidian/HPE Notes/K9/Daily Scrum/2024/01-30.md

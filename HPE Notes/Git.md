@@ -87,7 +87,7 @@ git rebase -i <commit-hash>~
 - choose edit option
 - make changes
 ```
-git add <edited file>
+git add <edited-file>
 ```
 ```
 git commit --amend

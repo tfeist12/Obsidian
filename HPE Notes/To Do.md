@@ -1,6 +1,8 @@
 **Week of 6/30/25:**
 
 In Progress:
+- Update nvim config and push to repo
+- Check on goals
 - Make story for updating the kubectl dsp plugin.
 - Review has been posted for the switch controller webhook changes
 - Once this is complete I can start putting it all together

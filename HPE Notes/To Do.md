@@ -2,10 +2,7 @@
 
 In Progress:
 - Make story for updating the kubectl dsp plugin.
-- Need to reactivate my copilot account because I keep getting 30 day usage warning emails
-- Currently working on switch controller webhook changes
-	- Added a mutating webhook that should solve the update scenario we discussed
-	- Submit a new build and test it
+- Review has been posted for the switch controller webhook changes
 - Once this is complete I can start putting it all together
 - Need to take a look at more bugs after this
 

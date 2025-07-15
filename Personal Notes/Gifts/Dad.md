@@ -23,3 +23,4 @@
 - [ ] Pegboard equipment for cabin shop
 - [ ] Tera Pump
 - [ ] Boat speaker
+- [ ] Propane to natural gas converter for fire pit

@@ -1,5 +1,7 @@
 **Week of 7/21/25**
 
+Complete:
+
 In Progress:
 - Update nvim config and push to repo
 - Secure development training before taking off next week
@@ -8,10 +10,9 @@ In Progress:
 - Review has been posted for the switch controller webhook changes
 - Once this is complete I can start putting it all together
 - Starting to dig more into the lir-data scaling bug
-	- where is the lir-data init pod stored?
-	- I see that the container was not initalized causing the pod to fail
-
-Complete:
+	- Where is the lir-data init pod stored? 
+		- This is the container that returned an incomplete status
+		- Is the full thing just the chown and mkdir commands stored in the lir-data deployment helm chart?
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

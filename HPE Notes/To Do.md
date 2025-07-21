@@ -29,7 +29,3 @@ Complete:
 	- Switchd GRPC client updates
 	- State machine
 	- Unit test updates
-
-Update notes:
-- Potentially use a mutating webhook that runs on create and update to populate spec fields
-- This could render the creation reconciliation operation obsolete

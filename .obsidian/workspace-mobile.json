@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97a9de3c484e4234",
+  "active": "94671c5f906a379a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "FirstBank Transfer.md",

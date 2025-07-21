@@ -3,23 +3,23 @@
 - [ ] Chip and stick
 - [ ] Meater block
 - [ ] Dewalt dual battery charger
-- [X] Stoko pants
-- [x] Shop TV
-- [x] Skidoo linq shovel holder. Ideally small
+- [x] Stoko pants ✅ 2025-07-21
+- [x] Shop TV ✅ 2025-07-21
+- [x] Skidoo linq shovel holder. Ideally small ✅ 2025-07-21
 - [ ] Klim Snowmobile boots
 - [ ] Seringhetti glasses
 - [ ] Rowing Machine
-- [x] Electric travel toothbrush
-- [x] Ski boots
+- [x] Electric travel toothbrush ✅ 2025-07-21
+- [x] Ski boots ✅ 2025-07-21
 - [ ] Blundstone Chelsea
 - [ ] Ski pants
 - [ ] 3/4 zip
-- [x] Gym Equipment
+- [x] Gym Equipment ✅ 2025-07-21
 - [ ] Tundra Tires for Yeti Cooler
 - [ ] Yellow glasses for driving in snow
 - [ ] Phone case
 - [ ] Stove fan
-- [ ] Red baron gloves
+- [x] Red baron gloves ✅ 2025-07-21
 - [ ] Pegboard equipment for cabin shop
 - [ ] Tera Pump
 - [ ] Boat speaker

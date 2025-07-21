@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ac67248b4adc69",
+        "id": "043006dd9fe39b29",
         "type": "tabs",
         "children": [
           {
-            "id": "11e00cd9fd928514",
+            "id": "0979809a16da6601",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "FirstBank Transfer.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "FirstBank Transfer"
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ]
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11e00cd9fd928514",
+  "active": "0979809a16da6601",
   "lastOpenFiles": [
     "FirstBank Transfer.md",
     "conflict-files-obsidian-git.md",

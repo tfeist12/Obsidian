@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Gifts/Dad.md",
+                "file": "Personal Notes/Shopping/Watches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dad"
+              "title": "Watches"
             }
           }
         ]
@@ -175,8 +175,13 @@
   },
   "active": "8502b6e1f444000f",
   "lastOpenFiles": [
-    "Personal Notes/Gifts/Jordan.md",
+    "/Personal Notes/Gifts/Dad.md",
+    "/Personal Notes/Gifts",
+    "/Personal Notes",
+    "/HPE Notes/To Do.md",
+    "/HPE Notes",
     "Personal Notes/Gifts/Dad.md",
+    "Personal Notes/Gifts/Jordan.md",
     "HPE Notes/K9/Daily Scrum/2024/01-17.md",
     "HPE Notes/K9/Daily Scrum/2024/01-30.md",
     "HPE Notes/Golang.md",
@@ -190,7 +195,6 @@
     "HPE Notes/Intern Coordinator/2022/End of Summer Celebration.md",
     "HPE Notes/Intern Coordinator/2022",
     "HPE Notes/Git.md",
-    "/HPE Notes/To Do.md",
     "/HPE Notes/K9/Stories and Bugs/AS-206172.md",
     "HPE Notes/K9/Stories and Bugs/AS-206172.md",
     "/HPE Notes/K9/Stories and Bugs",
@@ -205,11 +209,7 @@
     "/HPE Notes/Intern Coordinator/2022/Welcome Picnic.md",
     "/HPE Notes/Intern Coordinator/2022/Mentorship Week 2.md",
     "/HPE Notes/Intern Coordinator/2022/Mentorship Week 1.md",
-    "/HPE Notes/Intern Coordinator/2022/End of Summer Celebration.md",
     "/HPE Notes/Intern Coordinator/2022",
-    "/HPE Notes/Intern Coordinator",
-    "HPE Notes/Intern Coordinator",
-    "/HPE Notes",
-    "Personal Notes/Financial/Financial Planning/2021"
+    "/HPE Notes/Intern Coordinator"
   ]
 }

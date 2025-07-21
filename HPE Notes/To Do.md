@@ -1,4 +1,4 @@
-**Week of 6/30/25:**
+**Week of 7/21/25**
 
 In Progress:
 - Update nvim config and push to repo
@@ -7,16 +7,9 @@ In Progress:
 - Make story for updating the kubectl dsp plugin.
 - Review has been posted for the switch controller webhook changes
 - Once this is complete I can start putting it all together
-- Need to take a look at more bugs after this
+- Starting to dig more into the lir-data scaling bug
 
 Complete:
-- Checked in the cli user rbac permissions for oncs P0 bug fix
-- Renewed Virtual Digital Badge
-- Finished writing webhook unit tests
-- Check in with DSCC folks about switch port name field change
-	- Need to provide the build number of this R3 change
-- Pushed switch port name change
-- Pushed switch firmware crd update and fake reconcile loop
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

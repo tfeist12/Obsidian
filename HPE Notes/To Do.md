@@ -8,6 +8,8 @@ In Progress:
 - Review has been posted for the switch controller webhook changes
 - Once this is complete I can start putting it all together
 - Starting to dig more into the lir-data scaling bug
+	- where is the lir-data init pod stored?
+	- I see that the container was not initalized causing the pod to fail
 
 Complete:
 

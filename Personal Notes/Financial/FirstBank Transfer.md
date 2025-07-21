@@ -1,4 +1,4 @@
-Primary Bank Swift Info- Wells Fargo Bank International San Fransisco: WFBIUS6S
+Primary Bank Swift Info- Wells Fargo Bank International San Francisco: WFBIUS6S
 Beneficiary Bank Swift Info - FirstBank: FBCRUS51
 Account number: 3751242118
 Routing Number: 107005047

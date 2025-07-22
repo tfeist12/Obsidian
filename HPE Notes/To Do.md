@@ -10,9 +10,14 @@ In Progress:
 - Review has been posted for the switch controller webhook changes
 - Once this is complete I can start putting it all together
 - Starting to dig more into the lir-data scaling bug
-	- Where is the lir-data init pod stored? 
+	- Where is the lir-data init pod stored and what does it do?
 		- This is the container that returned an incomplete status
 		- Is the full thing just the chown and mkdir commands stored in the lir-data deployment helm chart?
+		- I don't believe the other containers are cleared to start if the init container fails
+
+Today:
+- Review Asha's FW update test plan
+- Continue looking into this lir-data scaling bug
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

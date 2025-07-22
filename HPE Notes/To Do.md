@@ -18,6 +18,8 @@ In Progress:
 Today:
 - Review Asha's FW update test plan
 - Continue looking into this lir-data scaling bug
+	- boot.log for containerd info
+	- likely after schedule but check kubescheduler
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

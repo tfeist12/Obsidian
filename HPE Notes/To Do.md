@@ -1,6 +1,7 @@
 **Week of 7/21/25**
 
 Complete:
+- Checked in switch controller webhook validator for fw update
 
 In Progress:
 - Update nvim config and push to repo

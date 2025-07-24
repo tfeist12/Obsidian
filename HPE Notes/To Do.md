@@ -1,26 +1,17 @@
 **Week of 7/21/25**
 
-Complete:
-- Checked in switch controller webhook validator for fw update
-
 In Progress:
 - Update nvim config and push to repo
 - Secure development training before taking off next week
 - Check on goals
 - Make story for updating the kubectl dsp plugin.
 - Review has been posted for the switch controller webhook changes
-- Once this is complete I can start putting it all together
-- Starting to dig more into the lir-data scaling bug
-	- Where is the lir-data init pod stored and what does it do?
-		- This is the container that returned an incomplete status
-		- Is the full thing just the chown and mkdir commands stored in the lir-data deployment helm chart?
-		- I don't believe the other containers are cleared to start if the init container fails
 
 Today:
-- Review Asha's FW update test plan
-- Continue looking into this lir-data scaling bug
-	- boot.log for containerd info
-	- likely after schedule but check kubescheduler
+- Reviewed Karisma's Partner CRD and controller after their recent update
+- Continued looking into this lir-data scaling bug
+- Discussion about how to quickly recover the switch for qa firmware update testing
+- Once I've figured out next steps for this bug I will move on. Sounds like there will be a few switch firmware update stories I should prioritize before I complete the one in my backlog
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

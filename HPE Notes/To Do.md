@@ -9,9 +9,11 @@ In Progress:
 
 Today:
 - Reviewed Karisma's Partner CRD and controller after their recent update
-- Continued looking into this lir-data scaling bug
+- Discussion about the code organization for the activation pod. Mostly Britt and Matt
 - Discussion about how to quickly recover the switch for qa firmware update testing
+- Continued looking into this lir-data scaling bug
 - Once I've figured out next steps for this bug I will move on. Sounds like there will be a few switch firmware update stories I should prioritize before I complete the one in my backlog
+- Taking off a wee bit early to go pick up the new vehicle this afternoon
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

@@ -12,6 +12,7 @@ Today:
 - Talked to Matt a bit about the Ring3 dsp spread failure
 	- Dsps are balanced but the test is hitting exceptions, perhaps unable to query the cluster for dsp info
 - Start working on the switch conditions story we made last week
+- Intern poster feedback on Tuesday
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

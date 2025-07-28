@@ -8,7 +8,7 @@ To Do:
 Today:
 - Talked to Greg about the lir-data scaling bug
 	- Sounds similar to a one he had been working on but it's at a different point in the lifecycle
-	- hoping for a repro of the other bug with containerd set to log at debug level
+	- Hoping for a repro of the other bug with containerd set to log at debug level
 - Talked to Matt a bit about the Ring3 dsp spread failure
 	- Dsps are balanced but the test is hitting exceptions, perhaps unable to query the cluster for dsp info
 - Start working on the switch conditions story we made last week

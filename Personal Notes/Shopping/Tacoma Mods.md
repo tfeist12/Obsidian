@@ -4,6 +4,8 @@
 - [ ] Seat jackers
 - [ ] Dashcam and power adapter
 - [ ] Powered tailgate lock
+- [ ] LED interior lights
+- [ ] Cali Raised LED light bar
 - [ ] Trailer brake controller
 - [ ] Rock sliders
 - [ ] Retrax XR retractable tonneau cover

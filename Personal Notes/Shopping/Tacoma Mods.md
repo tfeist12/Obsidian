@@ -3,6 +3,7 @@
 - [x] Driver display cover ✅ 2025-07-29
 - [ ] Seat jackers
 - [ ] Dashcam and power adapter
+- [ ] Powered tailgate lock
 - [ ] Trailer brake controller
 - [ ] Rock sliders
 - [ ] Retrax XR retractable tonneau cover

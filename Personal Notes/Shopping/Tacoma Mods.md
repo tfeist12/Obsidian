@@ -1,6 +1,7 @@
 - [x] WeatherTech floor mats ✅ 2025-07-29
 - [x] Glovebox and console organizers ✅ 2025-07-29
 - [x] Driver display cover ✅ 2025-07-29
+- [x] TufSkins gas cap holder ✅ 2025-07-29
 - [ ] Seat jackers
 - [ ] Dashcam and power adapter
 - [ ] Powered tailgate lock
@@ -10,4 +11,4 @@
 - [ ] Rock sliders
 - [ ] Retrax XR retractable tonneau cover
 - [ ] Billie Bars 11in bed rack
-- [ ] iKamper Skycamp 3.0
+- [ ] iKamper Skycamp 3.0 tent 

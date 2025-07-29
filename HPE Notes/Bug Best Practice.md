@@ -1,13 +1,12 @@
-DSP spread bug
-- dspmapper logs and the descheduler logs
+DSP Balance
+- dspmapper logs
+- descheduler logs
+- node problem detector logs
 
-Containerd issue
+Containerd
 - boot.log
-```
-<30>1 2025-07-24T22:03:11.550229+00:00 cxo-array560-c2 systemd-modules-load 1807 - -  Inserted module 'nvmet'
-```
+	- "Inserted module 'nvmet'" indicates a reboot
 
 **Notes**
 - There is only a single scheduler and descheduler on the cluster at a time
-- Check the cluster confirm directory for txt files that show pod
-- 
+- Check the cluster confirm directory for txt files that show pod and node data

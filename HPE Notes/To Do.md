@@ -6,13 +6,13 @@ To Do:
 - Make story for updating the kubectl dsp plugin.
 
 Today:
-- Talked to Greg about the lir-data scaling bug
-	- Sounds similar to a one he had been working on but it's at a different point in the lifecycle
-	- Hoping for a repro of the other bug with containerd set to log at debug level
-- Talked to Matt a bit about the Ring3 dsp spread failure
-	- Dsps are balanced but the test is hitting exceptions, perhaps unable to query the cluster for dsp info
+- Reassigned dsp spread bug matt and I looked at on Friday to qaops to update the test
+- Started looking at a new dsp balance bug Ron mentioned yesterday
+	- Appears to be caused by a node data not ready which was triggered by node lease
+	- There is also a node taint I need to look into further
+- Met with Britt and Matt about the lir-svc P0 bug yesterday
+- Intern poster feedback
 - Start working on the switch conditions story we made last week
-- Intern poster feedback on Tuesday
 
 [AS-197203](https://jira.storage.hpecorp.net/browse/AS-197203)
 	Switch Firmware update steps:

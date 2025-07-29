@@ -1,9 +1,9 @@
--[] Seat Jackers
-WeatherTech Floor Mats
-Trailer brake controller
-Glovebox and console organizers
-Driver display cover
-Rock sliders
-Retrax XR retractable tonneau cover
-Billie Bars 11in bed rack
-iKamper Skycamp 3.0
+- [x] WeatherTech floor mats ✅ 2025-07-29
+- [x] Glovebox and console organizers ✅ 2025-07-29
+- [x] Driver display cover ✅ 2025-07-29
+- [ ] Seat jackers
+- [ ] Trailer brake controller
+- [ ] Rock sliders
+- [ ] Retrax XR retractable tonneau cover
+- [ ] Billie Bars 11in bed rack
+- [ ] iKamper Skycamp 3.0

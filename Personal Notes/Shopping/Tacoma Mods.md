@@ -1,6 +1,6 @@
 - [x] WeatherTech floor mats ✅ 2025-07-29
 - [x] Glovebox and console organizers ✅ 2025-07-29
-- [x] Driver display cover ✅ 2025-07-29
+- [x] Screen ProTech cover✅ 2025-07-29
 - [x] TufSkins gas cap holder ✅ 2025-07-29
 - [ ] Seat jackers
 - [ ] Dashcam and power adapter

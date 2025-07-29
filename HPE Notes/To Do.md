@@ -6,7 +6,7 @@ To Do:
 - Make story for updating the kubectl dsp plugin.
 
 Today:
-- Reassigned dsp spread bug matt and I looked at on Friday to qaops to update the test
+- Posted my analysis and reassigned dsp spread bug Matt and I looked at on Friday to qaops to update the test
 - Started looking at a new dsp balance bug Ron mentioned yesterday
 	- Appears to be caused by a node data not ready which was triggered by node lease
 	- There is also a node taint I need to look into further

@@ -16,7 +16,7 @@
 - [ ] 3/4 zip
 - [x] Gym Equipment ✅ 2025-07-21
 - [ ] Tundra Tires for Yeti Cooler
-- [ ] Yellow glasses for driving in snow
+- [x] Yellow glasses for driving in snow ✅ 2025-07-30
 - [ ] Phone case
 - [ ] Stove fan
 - [x] Red baron gloves ✅ 2025-07-21
@@ -24,3 +24,4 @@
 - [ ] Tera Pump
 - [ ] Boat speaker
 - [ ] Propane to natural gas converter for fire pit
+- [ ] Dog ramp

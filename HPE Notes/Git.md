@@ -1,13 +1,13 @@
 **Starting: Order of operations**
 ```
-git checkout -b feist-<story> origin/prj-fleetos
+git checkout -b feist-<story> origin/prj-fleetos-next
 ```
 	or
 ```
 git checkout -b feist-<story>
 ```
 ```
-git branch --set-upstream-to origin/prj-fleetos
+git branch --set-upstream-to origin/prj-fleetos-next
 ```
 
 ------------------------------------------------------------------

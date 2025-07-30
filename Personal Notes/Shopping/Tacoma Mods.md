@@ -11,6 +11,6 @@
 - [ ] Cali Raised LED light bar
 - [ ] Trailer brake controller?
 - [ ] RCI rock sliders or RSG rock sliders
-- [ ] Retrax XR retractable tonneau cover
+- [ ] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/)
 - [ ] [Billie Bars 11in bed rack](https://billiebars.com/products/billiebars-tacoma-retrax-and-pace-edwards-t-slot-rack?variant=40436448985133)
 - [ ] [iKamper Skycamp Mini DLX tent](https://ikamper.com/products/skycamp-dlx-mini) 

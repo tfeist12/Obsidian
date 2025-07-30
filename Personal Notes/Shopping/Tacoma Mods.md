@@ -3,8 +3,9 @@
 - [x] [Vehicle OCD organizers](https://baselayerlabs.com/car-organizers/car-organizer-set-2016-2023-toyota-tacoma/) ✅ 2025-07-30
 - [x] [Screen ProTech cover](https://screenprotech.com/products/toyota-tacoma-screen-protech-kit?variant=35927574904985) ✅ 2025-07-30
 - [x] [TufSkins gas cap holder](https://www.tufskinz.com/products/gas-cap-holder-toyota-tacoma?variant=32949192294496) ✅ 2025-07-30
-- [ ] Seat jackers
-- [ ] Dashcam and power adapter
+- [ ] [Desert Does It seat jackers](https://desertdoesit.com/products/2005-2023-toyota-tacoma-seat-jackers)
+- [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
+- [ ] Garmin Mini 3 dashcam
 - [ ] Powered tailgate lock
 - [ ] LED interior lights
 - [ ] Cali Raised LED light bar

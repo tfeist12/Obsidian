@@ -5,12 +5,12 @@
 - [x] [TufSkins gas cap holder](https://www.tufskinz.com/products/gas-cap-holder-toyota-tacoma?variant=32949192294496) ✅ 2025-07-30
 - [ ] [Desert Does It seat jackers](https://desertdoesit.com/products/2005-2023-toyota-tacoma-seat-jackers)
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
-- [ ] Garmin Mini 3 dashcam
+- [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
 - [ ] Powered tailgate lock
 - [ ] LED interior lights
 - [ ] Cali Raised LED light bar
-- [ ] Trailer brake controller
+- [ ] Trailer brake controller?
 - [ ] RCI rock sliders or RSG rock sliders
 - [ ] Retrax XR retractable tonneau cover
-- [ ] Billie Bars 11in bed rack
-- [ ] iKamper Skycamp 3.0 tent 
+- [ ] [Billie Bars 11in bed rack](https://billiebars.com/products/billiebars-tacoma-retrax-and-pace-edwards-t-slot-rack?variant=40436448985133)
+- [ ] [iKamper Skycamp Mini DLX tent](https://ikamper.com/products/skycamp-dlx-mini) 

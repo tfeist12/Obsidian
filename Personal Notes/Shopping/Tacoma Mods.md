@@ -1,7 +1,8 @@
-- [x] WeatherTech floor mats ✅ 2025-07-29
-- [x] Glovebox and console organizers ✅ 2025-07-29
-- [x] Screen ProTech cover✅ 2025-07-29
-- [x] TufSkins gas cap holder ✅ 2025-07-29
+- [x] [WeatherTech floor mats](https://www.weathertech.com/floorliner-digitalfit-toyota-tacoma.html?year=2023&wt_660-370_toyotatacomacab=660-5829_DoubleCab&wt_660-431_tacomatransmissiontype=660-7865_Automatic&wt_color=Black&wt_settype=1stand2ndRow&ymmSearch=true) ✅ 2025-07-30
+- [x] [WeatherTech SunShade](https://www.weathertech.com/sunshade-toyota-tacoma.html?year=2023&wt_660-370_toyotatacomacab=660-5829_DoubleCab&ymmSearch=true) ✅ 2025-07-30
+- [ ] Glovebox and console organizers
+- [ ] [Screen ProTech cover](https://screenprotech.com/products/toyota-tacoma-screen-protech-kit?variant=35927574904985)
+- [ ] [TufSkins gas cap holder
 - [ ] Seat jackers
 - [ ] Dashcam and power adapter
 - [ ] Powered tailgate lock

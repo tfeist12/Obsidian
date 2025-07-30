@@ -8,7 +8,7 @@
 - [ ] LED interior lights
 - [ ] Cali Raised LED light bar
 - [ ] Trailer brake controller
-- [ ] RCI rock sliders
+- [ ] RCI rock sliders or RSG rock sliders
 - [ ] Retrax XR retractable tonneau cover
 - [ ] Billie Bars 11in bed rack
 - [ ] iKamper Skycamp 3.0 tent 

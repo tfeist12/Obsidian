@@ -7,8 +7,8 @@
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
 - [ ] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock)
-- [ ] LED interior lights
-- [ ] Cali Raised LED light bar
+- [ ] [VLEDS interior light kit](https://tacomabeast.com/products/2016-2023-toyota-tacoma-full-interior-led-kit?_pos=2&_fid=6c7f9ca9f&_ss=c)
+- [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] Trailer brake controller?
 - [ ] RCI rock sliders or RSG rock sliders
 - [ ] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/)

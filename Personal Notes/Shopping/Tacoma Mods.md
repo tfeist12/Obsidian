@@ -9,7 +9,7 @@
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
 - [ ] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
-- [ ] Trailer brake controller?
+- [ ] Redarc Towpro trailer brake controller?
 - [ ] RCI rock sliders or RSG rock sliders
 - [ ] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/)
 - [ ] [Billie Bars 11in bed rack](https://billiebars.com/products/billiebars-tacoma-retrax-and-pace-edwards-t-slot-rack?variant=40436448985133)

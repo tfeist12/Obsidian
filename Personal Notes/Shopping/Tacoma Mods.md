@@ -1,13 +1,13 @@
 - [x] [WeatherTech floor mats](https://www.weathertech.com/floorliner-digitalfit-toyota-tacoma.html?year=2023&wt_660-370_toyotatacomacab=660-5829_DoubleCab&wt_660-431_tacomatransmissiontype=660-7865_Automatic&wt_color=Black&wt_settype=1stand2ndRow&ymmSearch=true) ✅ 2025-07-30
 - [x] [WeatherTech SunShade](https://www.weathertech.com/sunshade-toyota-tacoma.html?year=2023&wt_660-370_toyotatacomacab=660-5829_DoubleCab&ymmSearch=true) ✅ 2025-07-30
 - [x] [Vehicle OCD organizers](https://baselayerlabs.com/car-organizers/car-organizer-set-2016-2023-toyota-tacoma/) ✅ 2025-07-30
-- [ ] [Screen ProTech cover](https://screenprotech.com/products/toyota-tacoma-screen-protech-kit?variant=35927574904985) ✅ 2025-07-30
-- [ ] [TufSkins gas cap holder](https://www.tufskinz.com/products/gas-cap-holder-toyota-tacoma?variant=32949192294496) ✅ 2025-07-30
-- [ ] [Desert Does It seat jackers](https://desertdoesit.com/products/2005-2023-toyota-tacoma-seat-jackers)
+- [x] [Screen ProTech cover](https://screenprotech.com/products/toyota-tacoma-screen-protech-kit?variant=35927574904985) ✅ 2025-07-31
+- [x] [TufSkins gas cap holder](https://www.tufskinz.com/products/gas-cap-holder-toyota-tacoma?variant=32949192294496) ✅ 2025-07-31
+- [x] [Desert Does It seat jackers](https://desertdoesit.com/products/2005-2023-toyota-tacoma-seat-jackers) ✅ 2025-07-31
+- [x] [VLEDS interior light kit](https://tacomabeast.com/products/2016-2023-toyota-tacoma-full-interior-led-kit?_pos=2&_fid=6c7f9ca9f&_ss=c) ✅ 2025-07-31
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
 - [ ] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock)
-- [ ] [VLEDS interior light kit](https://tacomabeast.com/products/2016-2023-toyota-tacoma-full-interior-led-kit?_pos=2&_fid=6c7f9ca9f&_ss=c)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] Trailer brake controller?
 - [ ] RCI rock sliders or RSG rock sliders

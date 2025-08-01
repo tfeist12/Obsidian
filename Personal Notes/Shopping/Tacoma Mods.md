@@ -16,4 +16,4 @@
 - [ ] [Guild Outfitters modular insert](http://guildoutfitters.com/products/go-6?pr_prod_strat=pinned&pr_rec_id=c749d3f24&pr_rec_pid=7005503651994&pr_ref_pid=7066352353434&pr_seq=uniform)
 - [ ] [Cali Raised LED light bar switch](https://caliraisedled.com/products/small-toyota-oem-style-light-bar-switch)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
-- [ ] [Redarc Towpro trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
+- [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)

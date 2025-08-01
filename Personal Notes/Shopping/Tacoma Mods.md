@@ -12,5 +12,7 @@
 - [ ] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/)
 - [ ] [Billie Bars 11in bed rack](https://billiebars.com/products/billiebars-tacoma-retrax-and-pace-edwards-t-slot-rack?variant=40436448985133)
 - [ ] [iKamper Skycamp Mini DLX tent](https://ikamper.com/products/skycamp-dlx-mini) 
+- [ ] [Guild Outfitters base switch panel](https://guildoutfitters.com/products/no-cut-base-switch-panel-for-3-short-switches)
+- [ ] [Guild Outfitters modular insert](http://guildoutfitters.com/products/go-6?pr_prod_strat=pinned&pr_rec_id=c749d3f24&pr_rec_pid=7005503651994&pr_ref_pid=7066352353434&pr_seq=uniform)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc Towpro trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)

@@ -6,7 +6,7 @@
 - [ ] [Desert Does It seat jackers](https://desertdoesit.com/products/2005-2023-toyota-tacoma-seat-jackers)
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
-- [ ] Powered tailgate lock
+- [ ] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock)
 - [ ] LED interior lights
 - [ ] Cali Raised LED light bar
 - [ ] Trailer brake controller?

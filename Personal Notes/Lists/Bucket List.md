@@ -6,7 +6,7 @@
 - [ ] Take it for a track day
 - [ ] ‎Rolex
 - [ ] Own a boat
-- [ ] See the Northern Lights
+- [x] See the Northern Lights
 - [ ] Salmon fishing with Logan in Vancouver
 - [ ] Bartending license
 - [ ] Saber Champagne

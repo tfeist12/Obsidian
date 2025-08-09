@@ -5,12 +5,11 @@
 - [x] [TufSkins gas cap holder](https://www.tufskinz.com/products/gas-cap-holder-toyota-tacoma?variant=32949192294496) ✅ 2025-07-31
 - [x] [Desert Does It seat jackers](https://desertdoesit.com/products/2005-2023-toyota-tacoma-seat-jackers) ✅ 2025-08-04
 - [x] [VLEDS interior light kit](https://tacomabeast.com/products/2016-2023-toyota-tacoma-full-interior-led-kit?_pos=2&_fid=6c7f9ca9f&_ss=c) ✅ 2025-08-04
-- [x] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/) ✅ 2025-08-09
-- [x] [Race Face T3 tailgate bike cover](https://www.raceface.com/products/t3-tailgate-pad?variant=40720989028434) ✅ 2025-08-09
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
 - [ ] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock)
 - [ ] [RCI rock sliders](https://rcimetalworks.com/product/2016-tacoma-rock-sliders/) 
+- [ ] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/)
 - [ ] [Billie Bars 11in bed rack](https://billiebars.com/products/billiebars-tacoma-retrax-and-pace-edwards-t-slot-rack?variant=40436448985133)
 - [ ] [iKamper Skycamp Mini DLX tent](https://ikamper.com/products/skycamp-dlx-mini) 
 - [ ] [Guild Outfitters base switch panel](https://guildoutfitters.com/products/no-cut-base-switch-panel-for-3-short-switches)

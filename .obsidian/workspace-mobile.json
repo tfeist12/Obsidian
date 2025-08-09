@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Relationships/Questions.md",
+                "file": "Personal Notes/Relationships/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "List"
             }
           }
         ]
@@ -175,9 +175,9 @@
   },
   "active": "0979809a16da6601",
   "lastOpenFiles": [
+    "Personal Notes/Relationships/Questions.md",
     "Personal Notes/Lists/Bucket List.md",
     "Personal Notes/Planning/Five Year Plan.md",
-    "Personal Notes/Relationships/Questions.md",
     "Personal Notes/Workout/To Do.md",
     "Personal Notes/Music/Radio Stations.md",
     "/Personal Notes/Shopping/Tacoma Mods.md",

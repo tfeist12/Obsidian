@@ -5,8 +5,6 @@
 - [x] [TufSkins gas cap holder](https://www.tufskinz.com/products/gas-cap-holder-toyota-tacoma?variant=32949192294496) ✅ 2025-07-31
 - [x] [Desert Does It seat jackers](https://desertdoesit.com/products/2005-2023-toyota-tacoma-seat-jackers) ✅ 2025-08-04
 - [x] [VLEDS interior light kit](https://tacomabeast.com/products/2016-2023-toyota-tacoma-full-interior-led-kit?_pos=2&_fid=6c7f9ca9f&_ss=c) ✅ 2025-08-04
-- [x] [Race Face T3 tailgate pad](https://www.raceface.com/products/t3-tailgate-pad?variant=40720988995666) ✅ 2025-08-07
-- [ ] [AVS hood protector](https://www.amazon.com/Auto-Ventshade-377079-Protector-2016-2018/dp/B01BYJHSQO?ref_=ast_sto_dp)
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
 - [ ] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock)
@@ -19,7 +17,3 @@
 - [ ] [Cali Raised LED light bar switch](https://caliraisedled.com/products/small-toyota-oem-style-light-bar-switch)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
-
-
-Retrax One XR Part Number: T-60851
-Replacement Clamps Part Number: F06-1044

@@ -15,7 +15,7 @@
 - [ ] Join Ski Patrol
 - [ ] Do a Spa day
 - [ ] Tear Drop Camper or Camper Van
-- [ ] Run the Bolder Boulder / Fortitude
+- [x] Run the Bolder Boulder / Fortitude
 - [ ] Swim in Moraine Lake
 - [x] Global Nexus
 - [ ] Master's Degree
@@ -24,7 +24,7 @@
 - [ ] St Mary's Glacier
 - [ ] Ski Bum a season
 - [ ] Run a Marathon
-- [ ] Take a cooking class
+- [x] Take a cooking class
 - [ ] Own a DSLR camera -> Canon 200d/250d sl2/sl3
 - [ ] Night Skiing
 - [ ] Banff Springs Hotel

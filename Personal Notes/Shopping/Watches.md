@@ -33,3 +33,4 @@
 
 **Links:**
 https://teddybaldassarre.com/products/prospex-sea-srpe05
+https://teddybaldassarre.com/products/spb210-prospex-alpinist-automatic-gold-finish-39-5mm-green-on-strap

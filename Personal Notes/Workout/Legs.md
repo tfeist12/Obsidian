@@ -14,7 +14,7 @@
 - Goblet squats
 - Sled Push/Pull
 
-**Legs #1**
+**Legs A**
 Warm Up:
 - Stair Stepper 2m
 Abs:
@@ -32,7 +32,7 @@ Weight Training:
 - Leg Curl Machine - SS2
 - Seated Calf Raises - SS2
 
-**Legs #2**
+**Legs B**
 Warm Up:
 - Stair Stepper 2m
 Abs:

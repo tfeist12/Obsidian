@@ -22,26 +22,22 @@
 - Perpendicular arm hold
 - Deficit flexion row - targets everything
 
-**Pull #1 (Upper Focus)**
+**Pull A**
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Abs Roll Out - SS1
-- Angled Oblique Raise - SS1
-- Boat Hold Flutter Kick - SS1
+- Ab Wheel: 3 sets x 10 reps
+- Oblique Raise (Angled): 3 sets x 10 reps (25lbs)
 Stretching:
-- TRX Row
 - Band Pull Apart
 Weight Training:
-- Pull Ups
-- Barbell Overhand Row
-- Close-Grip Pulldowns
-- Seated Cable Rows - SS2
-- Face Pulls - SS2
-- Single-Arm Dumbbell Row - SS3
-- Easy Bar Curls - SS3
+- T-Bar Row - 4 sets x 6-8 reps
+- Lat Pulldown (Wide Grip) - 3 sets x 8-10 reps
+- Seated Cable Row - 3 sets x 8-12 reps
+- Face Pull - 3 sets x 12-15 reps
+- Preacher Curl (Barbell) - 3 sets x 8-12 reps
 
-**Pull #2 (Lower Focus)**
+**Pull B**
 Warm Up:
 - Rowing 2m, 500m
 Abs:

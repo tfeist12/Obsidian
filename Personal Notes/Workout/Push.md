@@ -47,6 +47,6 @@ Stretching:
 Weight Training:
 - Incline Bench Press (Barbell/Dumbbell) - 4 sets x 6-8 reps
 - Iso-Lateral Chest Press - 3 sets x 8-10 reps
-- Shoulder Press (Dumbbell) - 3 sets x 8-12 reps
+- Chest Fly (Plate Loaded) - 3 sets x 8-12 reps
 - Triceps Extension (Cable) - 3 sets x 10-12 reps
 - Lateral Raise (Machine) - 3 sets x 12-15 reps

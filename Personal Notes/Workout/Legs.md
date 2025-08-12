@@ -28,7 +28,7 @@ Weight Training:
 - Romanian Deadlift - 3 sets x 8-10 reps
 - Leg Press - 3 sets x 12-15 reps
 - Lying Leg Curl - 3 sets x 10-12 reps
-- Calf Raise - 3 sets x 15-20 reps
+- Seated Calf Raise - 3 sets x 15-20 reps
 
 **Legs B**
 Warm Up:

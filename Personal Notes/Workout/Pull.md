@@ -26,10 +26,11 @@
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Ab Wheel: 3 sets x 10 reps
-- Oblique Raise (Angled): 3 sets x 10 reps (25lbs)
+- Ab Wheel: 3 x 10 SS
+- Angled Oblique Raise: 3 x 10 SS
 Stretching:
 - Band Pull Apart
+- Dead Hang
 Weight Training:
 - T-Bar Row - 4 sets x 6-8 reps
 - Lat Pulldown (Wide Grip) - 3 sets x 8-10 reps
@@ -41,12 +42,11 @@ Weight Training:
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Reverse Crunch - SS1
-- Scissor Kicks - SS1
-- Plank - SS1
+- Cable Crunch: 3 sets x 10-12 reps
+- Plank: 3 sets x 60 seconds
 Stretching:
-- TRX Row
 - Band Pull Apart
+- Dead Hang
 Weight Training:
 - Barbell Underhand Row
 - Plate Loaded Incline Pulldown

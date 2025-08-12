@@ -26,8 +26,8 @@
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Ab Wheel: 3 x 10 SS
-- Angled Oblique Raise: 3 x 10 SS
+- Ab Wheel: 3 sets x 10 reps
+- Candlesticks: 3 sets x 10 reps
 Stretching:
 - Band Pull Apart
 - Dead Hang

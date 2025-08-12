@@ -30,8 +30,8 @@ Stretching:
 - Band Pull Apart
 Weight Training:
 - Bench Press (Barbell) - 4 sets x 5-6 reps
-- Shoulder Press (Plate Loaded) - 3 sets x 6-8 reps
 - Dip (Plate Loaded) - 3 sets x 8-10 reps
+- Shoulder Press (Plate Loaded) - 3 sets x 6-8 reps
 - Triceps Pushdown - 3 sets x 8-12 reps
 - Lateral Raise (Dumbbell) - 3 sets x 12-15 reps
 
@@ -45,11 +45,8 @@ Stretching:
 - 90-90 Active Pec
 - Band Pull Apart
 Weight Training:
-- Barbell incline press
-- Plate loaded chest press
-- Dumbbell flat bench 
-- Shoulder press machine
-- Skullcrusher
-- Cable fly
-- Dumbbell lateral Raises
-
+- Incline Bench Press (Barbell/Dumbbell) - 4 sets x 6-8 reps
+- Iso-Lateral Chest Press - 3 sets x 8-10 reps
+- Shoulder Press (Dumbbell) - 3 sets x 8-12 reps
+- Triceps Extension (Cable) - 3 sets x 10-12 reps
+- Lateral Raise (Machine) - 3 sets x 12-15 reps

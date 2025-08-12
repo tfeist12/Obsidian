@@ -19,7 +19,7 @@
 - Rear Deltoid
 - Arnold Press
 
-**Push Day #1**
+**Push Day A**
 Warm Up:
 - Rowing 2m, 500m
 Abs:

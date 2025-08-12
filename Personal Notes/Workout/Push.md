@@ -29,26 +29,18 @@ Stretching:
 - 90-90 Active Pec
 - Band Pull Apart
 Weight Training:
-- Barbell flat bench
-- Weighted dip
-- Iso-Lateral incline press 
-- Iso-lateral shoulder press - SS2
-- Tricep pushdown - SS2
-- Pec deck - SS3
-- Cable lateral raise - SS3
 - Bench Press (Barbell) - 4 sets x 5-6 reps
 - Shoulder Press (Plate Loaded) - 3 sets x 6-8 reps
 - Dip (Plate Loaded) - 3 sets x 8-10 reps
 - Triceps Pushdown - 3 sets x 8-12 reps
-- Lateral Raise (Cable/Dumbbell) - 3 sets x 12-15 reps
+- Lateral Raise (Dumbbell) - 3 sets x 12-15 reps
 
 **Push Day #2**
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Bosu Crunch
-- Candlesticks
-- Hollow Body Hold
+- Cross Body Crunch: 3 sets x 10 reps each side
+- Hollow Body Hold: 3 sets x 30 seconds
 Stretching:
 - 90-90 Active Pec
 - Band Pull Apart
@@ -60,3 +52,4 @@ Weight Training:
 - Skullcrusher
 - Cable fly
 - Dumbbell lateral Raises
+

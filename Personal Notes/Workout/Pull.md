@@ -48,10 +48,8 @@ Stretching:
 - Band Pull Apart
 - Dead Hang
 Weight Training:
-- Barbell Underhand Row
-- Plate Loaded Incline Pulldown
-- Straight Arm Pulldown
-- Wide-Grip Lat Pulldown - SS2
-- Rear Deltoid Machine (Pec Deck) - SS2
-- Concentration Curls - SS3
-- Back Extension - SS3
+- Incline Pulldown - 4 sets x 6-8 reps
+- Iso-Lateral Row - 3 sets x 8-10 reps
+- Close-Grip Pulldown - 3 sets x 8-12 reps
+- Reverse Fly - 3 sets x 12-15 reps
+- Hammer Curl (Dumbbell) - 3 sets x 10-12 reps

@@ -16,7 +16,7 @@
 
 **Legs A**
 Warm Up:
-- Hill Climb 2m
+- Hill Climb 2 minutes
 Abs:
 - Hollow Crunch: 3 sets x 20 reps
 - Weighted Russian Twist: 3 sets x 15-18 reps
@@ -32,10 +32,10 @@ Weight Training:
 
 **Legs B**
 Warm Up:
-- Hill Climb 2m
+- Hill Climb 2 minutes
 Abs:
-- Hollow Crunch - SS1
-- Side Plank - SS1
+- Side Plank Raise: 3 sets x 10 reps each side
+- Wall Sit: 3 sets x 45-60 seconds
 Stretching:
 - Band Monster Walks
 - Band Frog Walks

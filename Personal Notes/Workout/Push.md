@@ -35,7 +35,7 @@ Weight Training:
 - Triceps Pushdown - 3 sets x 8-12 reps
 - Lateral Raise (Dumbbell) - 3 sets x 12-15 reps
 
-**Push Day #2**
+**Push Day B**
 Warm Up:
 - Rowing 2m, 500m
 Abs:

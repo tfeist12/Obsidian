@@ -16,37 +16,32 @@
 
 **Legs A**
 Warm Up:
-- Stair Stepper 2m
+- Hill Climb 2m
 Abs:
-- Crunches - SS1
-- Oblique Knee Raise - SS1
+- Hollow Crunch: 3 sets x 20 reps
+- Weighted Russian Twist: 3 sets x 15-18 reps
 Stretching:
-- Glute Bridge
-- Hamstring Extension
 - Band Monster Walks
 - Band Frog Walks
 Weight Training:
-- Barbell Squat
-- Plate-Loaded Leg Press
-- Romanian Deadlift
-- Leg Curl Machine - SS2
-- Seated Calf Raises - SS2
+- Squat (Barbell) - 4 sets x 5-6 reps
+- Romanian Deadlift - 3 sets x 8-10 reps
+- Leg Press - 3 sets x 12-15 reps
+- Lying Leg Curl - 3 sets x 10-12 reps
+- Calf Raise - 3 sets x 15-20 reps
 
 **Legs B**
 Warm Up:
-- Stair Stepper 2m
+- Hill Climb 2m
 Abs:
 - Hollow Crunch - SS1
 - Side Plank - SS1
 Stretching:
-- Glute Bridge
-- Hamstring Extension
 - Band Monster Walks
 - Band Frog Walks
 Weight Training:
-- Hack Squat
-- Barbell Hip Thrust
-- Weighted Lunges
-- Leg Extension Machine - SS2
-- Seated Calf Raises - SS2
-
+- Hack Squat - 4 sets x 8-10 reps
+- Hip Thrust - 3 sets x 10-12 reps
+- Lunge (Dumbbell) - 3 sets x 10-12 reps each leg
+- Leg Extension - 3 sets x 12-15 reps
+- Seated Calf Raise - 3 sets x 15-20 reps

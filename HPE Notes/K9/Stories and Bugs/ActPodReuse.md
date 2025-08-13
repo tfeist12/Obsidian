@@ -14,3 +14,5 @@ I need to create a new type called an act-pod this is going to be very similar t
 
 Make config an interface that is a part of the act base
 Load config at the top level at creation time
+
+ip pods ids should be the same 

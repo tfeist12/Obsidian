@@ -18,3 +18,7 @@ Load config at the top level at creation time
 ip pods ids should be the same 
 
 osd-> grpc
+
+Config
+whoever is calling the getter 
+define interface that contains getters

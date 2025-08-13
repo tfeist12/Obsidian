@@ -16,3 +16,5 @@ Make config an interface that is a part of the act base
 Load config at the top level at creation time
 
 ip pods ids should be the same 
+
+osd-> grpc

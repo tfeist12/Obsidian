@@ -1,4 +1,4 @@
-localOSDClinet -> localGrpcClient
+localOSDClient -> localGrpcClient
 
 sm should contain grpc client
 

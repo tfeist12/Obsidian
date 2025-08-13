@@ -22,3 +22,6 @@ osd-> grpc
 Config
 whoever is calling the getter 
 define interface that contains getters
+
+no ippod aversion label
+

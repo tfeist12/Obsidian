@@ -25,3 +25,5 @@ define interface that contains getters
 
 no ippod aversion label
 
+take this one piece at a time. start with etcd 
+

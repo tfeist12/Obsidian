@@ -22,34 +22,40 @@
 - Perpendicular arm hold
 - Deficit flexion row - targets everything
 
-**Pull A**
+**Pull #1 (Upper Focus)**
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Ab Wheel: 3 sets x 10 reps
-- Candlesticks: 3 sets x 10 reps
+- Abs Roll Out - SS1
+- Angled Oblique Raise - SS1
+- Boat Hold Flutter Kick - SS1
 Stretching:
+- TRX Row
 - Band Pull Apart
-- Dead Hang
 Weight Training:
-- T-Bar Row - 4 sets x 6-8 reps
-- Lat Pulldown (Wide Grip) - 3 sets x 8-10 reps
-- Seated Cable Row - 3 sets x 8-12 reps
-- Face Pull - 3 sets x 12-15 reps
-- Preacher Curl (Barbell) - 3 sets x 8-12 reps
+- Pull Ups
+- Barbell Overhand Row
+- Close-Grip Pulldowns
+- Seated Cable Rows - SS2
+- Face Pulls - SS2
+- Single-Arm Dumbbell Row - SS3
+- Easy Bar Curls - SS3
 
-**Pull B**
+**Pull #2 (Lower Focus)**
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Cable Crunch: 3 sets x 10-12 reps
-- Plank: 3 sets x 60 seconds
+- Reverse Crunch - SS1
+- Scissor Kicks - SS1
+- Plank - SS1
 Stretching:
+- TRX Row
 - Band Pull Apart
-- Dead Hang
 Weight Training:
-- Incline Pulldown - 4 sets x 6-8 reps
-- Iso-Lateral Row - 3 sets x 8-10 reps
-- Close-Grip Pulldown - 3 sets x 8-12 reps
-- Reverse Fly - 3 sets x 12-15 reps
-- Hammer Curl (Dumbbell) - 3 sets x 10-12 reps
+- Barbell Underhand Row
+- Plate Loaded Incline Pulldown
+- Straight Arm Pulldown
+- Wide-Grip Lat Pulldown - SS2
+- Rear Deltoid Machine (Pec Deck) - SS2
+- Concentration Curls - SS3
+- Back Extension - SS3

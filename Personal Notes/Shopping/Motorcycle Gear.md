@@ -30,4 +30,6 @@
 **Total:** $1308
 
 **Svartpilen 401 Parts:**
+LED Indicators:
+https://ktm-versand.de/32261/ktm/led-blinkerkit
 

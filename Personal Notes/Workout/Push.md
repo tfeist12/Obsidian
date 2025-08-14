@@ -19,34 +19,40 @@
 - Rear Deltoid
 - Arnold Press
 
-**Push Day A**
+**Push Day #1**
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Hanging Leg Raise: 3 sets x 10-12 reps
-- Side Plank: 3 sets x 45 seconds per side
+- Hanging Leg Raise - SS1
+- Cable Crunch - SS1
+- Russian Twist - SS1
 Stretching:
 - 90-90 Active Pec
 - Band Pull Apart
 Weight Training:
-- Bench Press (Barbell) - 4 sets x 5-6 reps
-- Dip (Plate Loaded) - 3 sets x 8-10 reps
-- Shoulder Press (Plate Loaded) - 3 sets x 6-8 reps
-- Triceps Pushdown - 3 sets x 8-12 reps
-- Lateral Raise (Dumbbell) - 3 sets x 12-15 reps
+- Barbell flat bench
+- Weighted dip
+- Iso-Lateral incline press 
+- Iso-lateral shoulder press - SS2
+- Tricep pushdown - SS2
+- Pec deck - SS3
+- Cable lateral raise - SS3
 
-**Push Day B**
+**Push Day #2**
 Warm Up:
 - Rowing 2m, 500m
 Abs:
-- Cross Body Crunch: 3 sets x 10 reps each side
-- Hollow Body Hold: 3 sets x 30 seconds
+- Bosu Crunch
+- Candlesticks
+- Hollow Body Hold
 Stretching:
 - 90-90 Active Pec
 - Band Pull Apart
 Weight Training:
-- Incline Bench Press (Barbell/Dumbbell) - 4 sets x 6-8 reps
-- Iso-Lateral Chest Press - 3 sets x 8-10 reps
-- Chest Fly (Plate Loaded) - 3 sets x 8-12 reps
-- Triceps Extension (Cable) - 3 sets x 10-12 reps
-- Lateral Raise (Machine) - 3 sets x 12-15 reps
+- Barbell incline press
+- Plate loaded chest press
+- Dumbbell flat bench 
+- Shoulder press machine
+- Skullcrusher
+- Cable fly
+- Dumbbell lateral Raises

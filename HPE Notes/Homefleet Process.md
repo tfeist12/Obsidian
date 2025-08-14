@@ -228,9 +228,6 @@ Run individual test or use lotsOftestRuns bash script
  ssh-keygen -R 172.19.0.102 && sshpass -p admin scp -o StrictHostKeyChecking=no /auto/share/bin/grpcurl root@172.19.0.102:/tmp/grpcurl
 ```
 ```bash
-grpcurl -plaintext $(kubectl -n cm get svc/nvg-switchd-svc -o=jsonpath='{.spec.clusterIP}':80) list
-```
-```bash
 grpcurl -plaintext `kubectl -n cm get svc/lir-svc -o=jsonpath='{.spec.clusterIP}':80` list lir.Service
 ```
 ```bash

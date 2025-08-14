@@ -14,34 +14,39 @@
 - Goblet squats
 - Sled Push/Pull
 
-**Legs A**
+**Legs #1**
 Warm Up:
-- Hill Climb 2 minutes
+- Stair Stepper 2m
 Abs:
-- Side Plank Raise: 3 sets x 10 reps each side
-- Wall Sit: 3 sets x 45-60 seconds
+- Crunches - SS1
+- Oblique Knee Raise - SS1
 Stretching:
+- Glute Bridge
+- Hamstring Extension
 - Band Monster Walks
 - Band Frog Walks
 Weight Training:
-- Squat (Barbell) - 4 sets x 5-6 reps
-- Romanian Deadlift - 3 sets x 8-10 reps
-- Leg Press - 3 sets x 12-15 reps
-- Lying Leg Curl - 3 sets x 10-12 reps
-- Seated Calf Raise - 3 sets x 15-20 reps
+- Barbell Squat
+- Plate-Loaded Leg Press
+- Romanian Deadlift
+- Leg Curl Machine - SS2
+- Seated Calf Raises - SS2
 
-**Legs B**
+**Legs #2**
 Warm Up:
-- Hill Climb 2 minutes
+- Stair Stepper 2m
 Abs:
-- Hollow Crunch: 3 sets x 20 reps
-- Weighted Russian Twist: 3 sets x 15-18 reps
+- Hollow Crunch - SS1
+- Side Plank - SS1
 Stretching:
+- Glute Bridge
+- Hamstring Extension
 - Band Monster Walks
 - Band Frog Walks
 Weight Training:
-- Hack Squat - 4 sets x 8-10 reps
-- Hip Thrust - 3 sets x 10-12 reps
-- Lunge (Dumbbell) - 3 sets x 10-12 reps each leg
-- Leg Extension - 3 sets x 12-15 reps
-- Seated Calf Raise - 3 sets x 15-20 reps
+- Hack Squat
+- Barbell Hip Thrust
+- Weighted Lunges
+- Leg Extension Machine - SS2
+- Seated Calf Raises - SS2
+

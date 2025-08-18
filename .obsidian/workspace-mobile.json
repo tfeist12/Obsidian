@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Relationships/Questions.md",
+                "file": "Personal Notes/Shopping/Outdoor Gear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "Outdoor Gear"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "active": "0979809a16da6601",
   "lastOpenFiles": [
+    "Personal Notes/Shopping/To Purchase.md",
+    "Personal Notes/Relationships/Questions.md",
     "/Personal Notes/Workout/Push.md",
     "/Personal Notes/Workout/Pull.md",
     "/Personal Notes/Workout/Legs.md",
@@ -208,8 +210,6 @@
     "/Personal Notes/Skiing/Backcountry.md",
     "/Personal Notes/Skiing/2024-2025.md",
     "/Personal Notes/Skiing/2023-2024.md",
-    "/Personal Notes/Skiing/2022-2023.md",
-    "/Personal Notes/Skiing/2021-2022.md",
-    "/Personal Notes/Skiing/2019-2020.md"
+    "/Personal Notes/Skiing/2022-2023.md"
   ]
 }

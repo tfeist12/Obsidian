@@ -1,6 +1,6 @@
 Car
 - Grizzly Spit
-- Collapsible shovel
+- Gerber E-Tool Shovel 
 - Hatchet
 - Silky
 
@@ -11,8 +11,6 @@ Backpacking
 - Light headlamp
 
 Skiing
-- Petzl Vasak Crampons
-- Petzl Glacier Linkin Ice Axe
 - Black Diamond Jetforce Tour 25
 - Smith x Aleck 006
 - Inclinometer

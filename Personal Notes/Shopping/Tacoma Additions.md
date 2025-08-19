@@ -28,13 +28,10 @@ Skid plate package
 	Transfer case
 $724.82
 
-Fuel tank
-$261.99
-
 Rock sliders
 $936.99
 
 $15 for pickup
 
-$2068.70 Total
+$1675.81 Total
 Sale ends Labor Day

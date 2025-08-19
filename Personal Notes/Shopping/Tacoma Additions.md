@@ -20,13 +20,18 @@
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
 
-Steel
+Powder coated steel
 
-Skid plate package includes
-Engine
-Transmission
+Skid plate package includes $724.82
+Engine skid plate
+Transmission 
 Transfer case
 
-Fuel tank separate
+Fuel tank separate $261.99
 
-Rock sliders separate 
+Rock sliders separate $936.99
+
+$15 for pickup
+
+$2068.70 Total
+Labor Day is when sale ends

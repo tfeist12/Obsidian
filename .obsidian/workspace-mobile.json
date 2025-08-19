@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Shopping/Outdoor Gear.md",
+                "file": "Personal Notes/Financial/Credit Card/Amex Gold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outdoor Gear"
+              "title": "Amex Gold"
             }
           }
         ]
@@ -162,6 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -175,6 +176,11 @@
   },
   "active": "0979809a16da6601",
   "lastOpenFiles": [
+    "/HPE Notes/K9/Stories and Bugs/AS-197203.md",
+    "/HPE Notes/K9/Stories and Bugs",
+    "/HPE Notes/K9",
+    "/HPE Notes",
+    "Personal Notes/Shopping/Outdoor Gear.md",
     "Personal Notes/Shopping/To Purchase.md",
     "Personal Notes/Relationships/Questions.md",
     "/Personal Notes/Workout/Push.md",
@@ -200,16 +206,11 @@
     "/Personal Notes/Travel/2022/South Korea 2022.md",
     "/Personal Notes/Travel/2022",
     "/Personal Notes/Travel/2021/Teton Trip 2021.md",
-    "/Personal Notes/Travel/2021",
     "/Personal Notes/Travel/2020/Panama 2020.md",
-    "/Personal Notes/Travel/2020",
-    "/Personal Notes/Travel",
     "/Personal Notes/Teardrop/Parts.md",
     "/Personal Notes/Teardrop/12-3 Meeting.md",
     "/Personal Notes/Teardrop/11-10 Meeting.md",
     "/Personal Notes/Skiing/Backcountry.md",
-    "/Personal Notes/Skiing/2024-2025.md",
-    "/Personal Notes/Skiing/2023-2024.md",
-    "/Personal Notes/Skiing/2022-2023.md"
+    "/Personal Notes/Skiing/2024-2025.md"
   ]
 }

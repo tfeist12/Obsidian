@@ -20,18 +20,21 @@
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
 
-Powder coated steel
+RCI parts are powder coated steel
 
-Skid plate package includes $724.82
-Engine skid plate
-Transmission 
-Transfer case
+Skid plate package
+	Engine
+	Transmission 
+	Transfer case
+$724.82
 
-Fuel tank separate $261.99
+Fuel tank
+$261.99
 
-Rock sliders separate $936.99
+Rock sliders
+$936.99
 
 $15 for pickup
 
 $2068.70 Total
-Labor Day is when sale ends
+Sale ends Labor Day

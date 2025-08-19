@@ -19,3 +19,14 @@
 - [ ] [Cali Raised LED light bar switch](https://caliraisedled.com/products/small-toyota-oem-style-light-bar-switch)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
+
+Steel
+
+Skid plate package includes
+Engine
+Transmission
+Transfer case
+
+Fuel tank separate
+
+Rock sliders separate 

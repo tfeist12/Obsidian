@@ -6,8 +6,8 @@
 2024: 118214.40 -> 121169.76 = 2.5% (Merit)
 2025: 121169.76 -> 141,768.62 ~= 17% (Promotion)
 
+R2 release this year so there should be a decent reward
 2026 Expectation: 2.5%-5% (Merit)
 145312.84 - 148857.05
-
-2026  Ideal: 5.81% (Merit)
+2026 Ideal: 5.81%-10% (Merit)
 150000.00

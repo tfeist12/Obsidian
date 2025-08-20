@@ -29,3 +29,7 @@ dsp name is the name of the deployment
 pod name is the per instance name of the pod 
 
 get pod to node mapping
+
+consts within the etcd client become part of config
+perhaps pod type is part of config
+when you create a config you provide 

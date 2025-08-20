@@ -10,4 +10,4 @@ R2 release this year so there should be a decent reward
 2026 Expectation: 2.5%-5% (Merit)
 145312.84 - 148857.05
 2026 Ideal: 5.81%-10% (Merit)
-150000.00
+150000.00-155945.48

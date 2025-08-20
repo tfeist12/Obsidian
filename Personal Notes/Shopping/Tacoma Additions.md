@@ -9,9 +9,10 @@
 - [x] [Quadlock wireless carplay adapter](https://www.quadlockcase.com/products/wireless-carplay-android-auto-adaptor) ✅ 2025-08-18
 - [x] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock) ✅ 2025-08-18
 - [x] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/)
+- [ ] [RCI rock sliders](https://rcimetalworks.com/product/2016-tacoma-rock-sliders/)
+- [ ] [RCI skid plate package](https://rcimetalworks.com/product/05-23-tacoma-full-skid-package-deal-copy/)
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)
-- [ ] [RCI rock sliders](https://rcimetalworks.com/product/2016-tacoma-rock-sliders/) 
 - [ ] [Billie Bars 11in bed rack](https://billiebars.com/products/billiebars-tacoma-retrax-and-pace-edwards-t-slot-rack?variant=40436448985133)
 - [ ] [iKamper Skycamp Mini DLX tent](https://ikamper.com/products/skycamp-dlx-mini) 
 - [ ] [Guild Outfitters base switch panel](https://guildoutfitters.com/products/no-cut-base-switch-panel-for-3-short-switches)
@@ -19,19 +20,3 @@
 - [ ] [Cali Raised LED light bar switch](https://caliraisedled.com/products/small-toyota-oem-style-light-bar-switch)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
-
-RCI parts are powder coated steel
-
-Skid plate package
-	Engine
-	Transmission 
-	Transfer case
-$724.82
-
-Rock sliders
-$936.99
-
-$15 for pickup
-
-$1675.81 Total
-Sale ends Labor Day

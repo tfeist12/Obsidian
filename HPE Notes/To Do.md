@@ -22,6 +22,8 @@ Today:
 	- Unit test updates
 
 osds have direct analog for ip pods
-
 activator host
 activator port
+
+dsp name is the name of the deployment
+pod name is the per instance name of the pod 

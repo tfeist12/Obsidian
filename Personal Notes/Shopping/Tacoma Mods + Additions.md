@@ -20,4 +20,6 @@
 - [ ] [Cali Raised LED light bar switch](https://caliraisedled.com/products/small-toyota-oem-style-light-bar-switch)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
-- [ ] 
+
+
+Overall, I'd say this change looks good. I'm still looking at the unit tests, but once those run successfully, this should be good for check-in.

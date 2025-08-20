@@ -9,7 +9,6 @@ Today:
 - Intern poster feedback
 - Start working on the switch conditions story we made last week
 
-
 osds have direct analog for ip pods
 activator host
 activator port

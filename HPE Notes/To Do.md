@@ -20,3 +20,8 @@ Today:
 	- Switchd GRPC client updates
 	- State machine
 	- Unit test updates
+
+osds have direct analog for ip pods
+
+activator host
+activator port

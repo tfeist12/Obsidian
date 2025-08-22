@@ -5,10 +5,8 @@ To Do:
 - Check on goals
 - Make story for updating the kubectl dsp plugin.
 
-Today:
 
-
-ActPod:
+ActPodRefactor:
 - dsp name is the name of the deployment
 - pod name is the per instance name of the pod 
 

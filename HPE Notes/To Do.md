@@ -16,3 +16,4 @@ We can actually use the existing act pod type for identification i believe
 
 Need to update comments that mention dsp and osd
 consts within the etcd client become part of config
+update dsp helm chart

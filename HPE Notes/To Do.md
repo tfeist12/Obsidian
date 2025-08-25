@@ -15,6 +15,6 @@ when you create a config at the highest level you provide the type
 We can actually use the existing act pod type for identification i believe
 
 Need to update comments that mention dsp and osd
-consts within the etcd client become part of config
+consts within the etcd client and k8s client become part of config
 
 currently build and unit tests pass but I need to test install 

@@ -1,8 +1,7 @@
 Car
 - Grizzly Spit
 - Gerber E-Tool Shovel 
-- Hatchet
-- Silky
+- Hatchet 
 
 Backpacking
 - Gravity water filter

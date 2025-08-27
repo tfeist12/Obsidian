@@ -2,7 +2,6 @@
 
 To Do:
 - Update nvim config and push to repo
-- Check on goals
 - Make story for updating the kubectl dsp plugin.
 
 

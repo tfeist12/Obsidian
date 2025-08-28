@@ -25,6 +25,13 @@ git push origin HEAD:prj-fleetos-next
 
 ------------------------------------------------------------------
 
+**Check Upstream Branch**
+```
+git branch -vv
+```
+
+------------------------------------------------------------------
+
 **Push to private ref:**
 ```
 git push origin HEAD:refs/private/phabusername__as-123456

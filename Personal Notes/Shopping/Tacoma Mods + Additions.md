@@ -9,7 +9,7 @@
 - [x] [Quadlock wireless carplay adapter](https://www.quadlockcase.com/products/wireless-carplay-android-auto-adaptor) ✅ 2025-08-18
 - [x] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock) ✅ 2025-08-18
 - [x] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/) ✅ 2025-08-20
-- [ ] [RCI skid plate package](https://rcimetalworks.com/product/05-23-tacoma-full-skid-package-deal-copy/)
+- [x] [RCI skid plate package](https://rcimetalworks.com/product/05-23-tacoma-full-skid-package-deal-copy/) ✅ 2025-08-28
 - [ ] [RCI rock sliders](https://rcimetalworks.com/product/2016-tacoma-rock-sliders/)
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
 - [ ] [Garmin Mini 3 dashcam](https://www.garmin.com/en-US/p/1223369/)

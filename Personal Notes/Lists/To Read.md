@@ -1,5 +1,4 @@
 Sci-fi 
-- Hitchhikers Guide to the Galaxy (Logan)
 - Neuromancer
 - Hyperion
 - Count Zero
@@ -19,7 +18,6 @@ Philosophy
 
 Drama
 - Don Quixote
-- The Road
 - Dow De Jing
 - Desert Solitare
 - The demon haunted world

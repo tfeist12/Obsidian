@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Relationships/Questions.md",
+                "file": "Personal Notes/Relationships/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "List"
             }
           }
         ]
@@ -174,8 +174,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c5eb95db6aa39e",
+  "active": "0979809a16da6601",
   "lastOpenFiles": [
+    "Personal Notes/Relationships/Questions.md",
     "/Personal Notes/Shopping/Tacoma Mods + Additions.md",
     "/Personal Notes/Shopping",
     "/Personal Notes",
@@ -187,7 +188,6 @@
     "/Personal Notes/Shopping/Watches.md",
     "/HPE Notes/K9/Stories and Bugs/AS-207596.md",
     "Personal Notes/Lists/To Watch.md",
-    "Personal Notes/Relationships/Questions.md",
     "Personal Notes/Shopping/Tacoma Mods + Additions.md",
     "HPE Notes/K9/Stories and Bugs/AS-208654.md",
     "/HPE Notes/To Do.md",

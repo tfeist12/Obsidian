@@ -1,0 +1,1 @@
+I’ve had fun getting to know you over these last few weeks but i’m not seeing this going anywhere. I feel like we’re at different spots in our lives. Not as much of a connection between us as I was hoping for 

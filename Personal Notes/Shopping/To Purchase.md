@@ -7,6 +7,7 @@
 - Bookshelf
 - Chair and ottoman
 - Watch winder
+- Pasta maker
 
 **Services**
 - West-side Concrete Pour ($6000)

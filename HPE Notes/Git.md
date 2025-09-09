@@ -14,7 +14,7 @@ git branch --set-upstream-to origin/prj-fleetos-next
 
 **Finished: Order of operations**
 ```
-git phabsend --squash
+git phabsend --squash --try without dashes
 ```
 ```
 git pull --rebase

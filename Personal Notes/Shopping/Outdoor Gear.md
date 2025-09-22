@@ -5,7 +5,7 @@ Car
 
 Backpacking
 - Platypus GravityWorks water filter
-- Ultralight 20F sleeping bag
+- Kelty Cosmic 20F sleeping bag ($179.95)
 - Jet boil zip coffee filter
 - Petzl Actik Core headlamp
 

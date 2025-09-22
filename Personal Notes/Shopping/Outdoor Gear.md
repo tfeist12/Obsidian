@@ -16,5 +16,5 @@
 - Inclinometer
 
 **Cycling:
-- Crankbrothers double shot 2 hybrid pedals ($109.99)
+- Crankbrothers double shot 3 hybrid pedals ($129.99)
 - MTB Clip Shoes

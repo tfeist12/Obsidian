@@ -5,9 +5,9 @@ Car
 
 Backpacking
 - Gravity water filter
-- Ultralight backpacking sleeping bag
-- Jet boil coffee filter
-- Light headlamp
+- 20F sleeping bag
+- Jet boil zip coffee filter
+- Petzl Actik Core headlamp
 
 Skiing
 - Black Diamond Jetforce Tour 25

@@ -4,8 +4,8 @@ Car
 - Hatchet 
 
 Backpacking
-- Gravity water filter
-- 20F sleeping bag
+- Platypus GravityWorks water filter
+- Ultralight 20F sleeping bag
 - Jet boil zip coffee filter
 - Petzl Actik Core headlamp
 

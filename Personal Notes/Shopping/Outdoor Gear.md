@@ -1,13 +1,14 @@
 Car
+- Gerber E-Tool Folding Spade ($84.95)
+- Gerber 15" Bushcraft Hatchet ($69.95)
+- Lodge Reversible Griddle ($54.95)
 - Grizzly Spit
-- Gerber E-Tool Shovel 
-- Hatchet 
 
 Backpacking
-- Platypus GravityWorks water filter
+- Platypus GravityWorks filtration system ($134.95)
 - Kelty Cosmic 20F sleeping bag ($179.95)
-- Jet boil zip coffee filter
-- Petzl Actik Core headlamp
+- Jet boil zip silicone coffee press ($22.99)
+- Petzl Actik Core headlamp ($87.95)
 
 Skiing
 - Black Diamond Jetforce Tour 25

@@ -7,6 +7,7 @@
 - Watch winder
 - Pasta maker
 - Office futon
+- Breville Toaster Oven Air Fryer
 
 **Services**
 - West-side Concrete Pour ($6000)

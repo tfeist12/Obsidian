@@ -1,7 +1,7 @@
 **Week of 8/22/25**
 
 To Do:
-- Update nvim config and push to repo
+- Update nvim config and push to repo, need to switch from gofumpt to gofmt
 - Make story for updating the kubectl dsp plugin.
 
 clienthfTLSConfig -> clientHfTLSConfig

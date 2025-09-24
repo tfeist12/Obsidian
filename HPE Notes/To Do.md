@@ -7,6 +7,7 @@ Yesterday:
 	- Sounds like there needs a be a change from the QA side before check-in though
 	- Both test_switch_get_attributes tests seem to be failing after this change
 - Discussions with Eric Champagne about inactive firmware version reporting and fake firmware update
+- Run dsp related tests before refactor check in
 
 To Do:
 - Make story for updating the kubectl dsp plugin.

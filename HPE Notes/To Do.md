@@ -18,4 +18,4 @@ To Do:
 		- hfcluster/src/ippodd/ippodd/internal/rpc/server_test.go
 - Randomize number in range for each sleep in fake firmware update
 
-Pending update but spec == status
+Still pending update and not ready but spec == status

@@ -1,7 +1,7 @@
 **Week of 9/24/25**
 
 Yesterday:
-- Radhika ran into an issue with her automation. Need to look into this more
+- Radhika ran into an issue with her fw update automation. Need to look into this more
 - DSP Refactor walkthrough
 - v3.6.7 switchd added to base containers so I posted a review to use the new port name
 	- Sounds like there needs a be a change from the QA side before check-in though

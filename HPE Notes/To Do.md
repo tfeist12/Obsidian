@@ -1,6 +1,9 @@
-**Week of 8/22/25**
+**Week of 9/24/25**
 
+To Do:
 - Make story for updating the kubectl dsp plugin.
+- Clean up Raj's checkin:
+	- 
 
 clienthfTLSConfig -> clientHfTLSConfig
 hfcluster/src/ippodd/client/grpc_client.go

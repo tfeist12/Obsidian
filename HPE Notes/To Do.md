@@ -5,6 +5,7 @@ Yesterday:
 - DSP Refactor walkthrough
 - v3.6.7 switchd added to base containers so I posted a review to use the new port name
 	- Sounds like there needs a be a change from the QA side before check-in though
+	- Both test_switch_get_attributes tests seem to be failing after this change
 - Discussions with Eric Champagne about inactive firmware version reporting and fake firmware update
 
 To Do:

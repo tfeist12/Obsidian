@@ -17,5 +17,3 @@ To Do:
 		- hfcluster/src/ippodd/client/grpc_client.go
 		- hfcluster/src/ippodd/ippodd/internal/rpc/server_test.go
 - Randomize number in range for each sleep in fake firmware update
-
-Still pending update and not ready but spec == status

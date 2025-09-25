@@ -7,6 +7,7 @@
 - Kitchen Aid Pasta maker
 - Office futon
 - Breville Toaster Oven Air Fryer
+- Large pestle and morter
 
 **Services**
 - West-side Concrete Pour ($6000)

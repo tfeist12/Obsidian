@@ -5,10 +5,11 @@
 - [Garmin Nylon Watch Strap](https://www.garmin.com/en-US/p/552261/pn/010-12875-00)($150)
 - Bedroom Bookshelf
 - Kitchen Aid Pasta maker
+- Kitchen Aid grinder
 - Office futon
 - Breville Toaster Oven Air Fryer
 - Large pestle and morter
-- food processor
+- Food processor
 
 **Services**
 - West-side Concrete Pour ($6000)

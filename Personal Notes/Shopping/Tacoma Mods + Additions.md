@@ -8,6 +8,7 @@
 - [x] [Race Face T3 tailgate bike cover](https://www.raceface.com/products/t3-tailgate-pad?variant=40720989028434) ✅ 2025-08-10
 - [x] [Pop and Lock powered tailgate lock](https://www.tacomalifestyle.com/products/pop-lock-powered-tailgate-lock) ✅ 2025-08-18
 - [x] [Retrax One XR retractable tonneau cover](https://realtruck.com/p/retraxone-xr-tonneau-cover/v/toyota/tacoma/2023/) ✅ 2025-08-20
+- [x] [Exhaust TC reroute](https://www.fcmuffler.com/) ✅ 2025-09-26
 - [x] [RCI skid plate package](https://rcimetalworks.com/product/05-23-tacoma-full-skid-package-deal-copy/) ✅ 2025-08-28
 - [ ] [RCI rock sliders](https://rcimetalworks.com/product/2016-tacoma-rock-sliders/)
 - [ ] [Dongar power adapter](https://dongar.tech/products/12pin-tacoma?sca_ref=1117365.8btKsBodin)
@@ -19,4 +20,3 @@
 - [ ] [Cali Raised LED light bar switch](https://caliraisedled.com/products/small-toyota-oem-style-light-bar-switch)
 - [ ] [Cali Raised LED light bar](https://caliraisedled.com/products/second-32-light-bar-with-relocation-mounts-for-2016-2023-tacoma-stealth-bumper)
 - [ ] [Redarc tow-pro elite trailer brake controller](https://www.redarcelectronics.com/us/tow-pro-elite-electric-brake-controller)
-- [ ] Exhaust reroute

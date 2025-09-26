@@ -4,8 +4,9 @@
 - [Hestan ProClad Titum Nonstick Skillets](https://hestanculinary.com/collections/titum/products/probond-forged-stainless-steel-nonstick-skillet?variant=40871280410667)($300)
 - [Garmin Nylon Watch Strap](https://www.garmin.com/en-US/p/552261/pn/010-12875-00)($150)
 - Bedroom Bookshelf
-- Kitchen Aid Pasta maker
-- Kitchen Aid grinder
+- Kitchen Aid pasta maker
+- Kitchen Aid meat grinder
+- Cast Iron meat press
 - Office futon
 - Breville Toaster Oven Air Fryer
 - Large pestle and morter

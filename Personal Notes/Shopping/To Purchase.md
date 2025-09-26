@@ -8,6 +8,7 @@
 - Office futon
 - Breville Toaster Oven Air Fryer
 - Large pestle and morter
+- food processor
 
 **Services**
 - West-side Concrete Pour ($6000)

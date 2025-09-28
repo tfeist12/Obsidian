@@ -27,7 +27,6 @@ Drama
 - Into thin air
 - The Girl with the dragon tattoo
 
-
 Fantasy
 - Name of the wind
 

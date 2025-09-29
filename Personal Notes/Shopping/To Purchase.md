@@ -11,6 +11,7 @@
 - Breville Toaster Oven Air Fryer
 - Large pestle and morter
 - Food processor
+- XL Oval Le Cruset Dutch oven
 
 **Services**
 - West-side Concrete Pour ($6000)

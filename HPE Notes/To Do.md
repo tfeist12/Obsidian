@@ -23,6 +23,9 @@ check for ready state in pod list
 
 Create a new review 
 
+new function updatepodannotation -> takes ip
+use merge patch
+
 ippodd/iptools/networkinterface/networkinterface.go 
 - ipaddr show -j deserialize
 - needs to address instead of mac

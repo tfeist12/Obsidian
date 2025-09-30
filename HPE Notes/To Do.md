@@ -13,3 +13,12 @@
 - Code reviews, Raj and Eric
 - Caught up on training
 - Checked in the new port name usage
+
+
+role 
+list get patch for pods 
+may not need get
+
+check for ready state in pod list
+
+Create a new review 

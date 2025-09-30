@@ -1,6 +1,6 @@
-**Week of 9/29/25**
+### Week of 9/29/25
 
-To Do:
+**To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Clean up Raj's checkin:
 	- Naming - clienthfTLSConfig -> clientHfTLSConfig
@@ -8,3 +8,8 @@ To Do:
 		- hfcluster/src/ippodd/client/grpc_client.go
 		- hfcluster/src/ippodd/ippodd/internal/rpc/server_test.go
 - Self Evaluation
+
+**Yesterday:**
+- Code reviews, Raj and Eric
+- Caught up on training
+- Checked in the new port name usage

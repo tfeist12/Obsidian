@@ -2,7 +2,7 @@
 
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
-- Clean up Raj's checkin:
+- Clean up Raj's checkin - stashed as "rajFix"
 	- Naming - clienthfTLSConfig -> clientHfTLSConfig
 	- Formatting - `go fmt`
 		- hfcluster/src/ippodd/client/grpc_client.go

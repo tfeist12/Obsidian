@@ -22,3 +22,7 @@ may not need get
 check for ready state in pod list
 
 Create a new review 
+
+ippodd/iptools/networkinterface/networkinterface.go 
+- ipaddr show -j deserialize
+- needs to address instead of mac

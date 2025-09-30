@@ -7,4 +7,4 @@ To Do:
 	- Formatting - `go fmt`
 		- hfcluster/src/ippodd/client/grpc_client.go
 		- hfcluster/src/ippodd/ippodd/internal/rpc/server_test.go
-- Self Eval
+- Self Evaluation

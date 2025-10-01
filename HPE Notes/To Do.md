@@ -1,19 +1,31 @@
-**Week of 9/24/25**
+### Week of 9/29/25
 
-Yesterday:
-- Radhika ran into an issue with her fw update automation. Need to look into this more
-- DSP Refactor walkthrough
-- v3.6.7 switchd added to base containers so I posted a review to use the new port name
-	- Sounds like there needs a be a change from the QA side before check-in though
-	- Both test_switch_get_attributes tests seem to be failing after this change
-- Discussions with Eric Champagne about inactive firmware version reporting and fake firmware update
-- Run dsp related tests before refactor check in
-
-To Do:
+**To Do:**
 - Make story for updating the kubectl dsp plugin.
-- Clean up Raj's checkin:
+- Clean up Raj's checkin - stashed as "rajFix"
 	- Naming - clienthfTLSConfig -> clientHfTLSConfig
 	- Formatting - `go fmt`
 		- hfcluster/src/ippodd/client/grpc_client.go
 		- hfcluster/src/ippodd/ippodd/internal/rpc/server_test.go
-- Randomize number in range for each sleep in fake firmware update
+- Self Evaluation
+
+**Yesterday:**
+- Code reviews, Raj and Eric
+- Caught up on training
+- Checked in the new port name usage
+
+
+role 
+list get patch for pods 
+may not need get
+
+check for ready state in pod list
+
+Create a new review 
+
+new function updatepodannotation -> takes ip
+use merge patch
+
+ippodd/iptools/networkinterface/networkinterface.go 
+- ipaddr show -j deserialize
+- needs to address instead of mac

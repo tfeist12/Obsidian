@@ -16,8 +16,8 @@
 | Shopping Research                | <               | <         | <             | <            | <         | <          |
 | :------------------------------- | :-------------- | :-------- | :------------ | :----------- | :-------- | :--------- |
 | **Watch**                        | **Dial Colour** | **Strap** | **Dial Size** | **Movement** | **Style** | **Retail** |
-| Seiko Alpinist                   | Green/Gold      | Brown     | 39.5          | Auto         | Field     | 725        |
-| Seiko King Turtle                | Green/Black     | Green     | 45            | Auto         | Dive      | 596        |
+| [Seiko Alpinist](https://teddybaldassarre.com/products/spb210-prospex-alpinist-automatic-gold-finish-39-5mm-green-on-strap)| Green/Gold      | Brown     | 39.5          | Auto         | Field     | 620        |
+| [Seiko King Turtle](https://teddybaldassarre.com/products/prospex-sea-srpe93)| Green/Black     | Green     | 45            | Auto         | Dive      | 596        |
 | Tutor Black Bay 54               | Black/Gold      | Steel     | 37            | Auto         | Dive      | 4000       |
 | Tutor North Flag                 | Black/Lime      | Steel     | 40            | Auto         | Sport     | 4000       |
 | Longines Spirit Zulu Time        | Black/Green     | Brown     | 39            | Auto         | GMT       | 5000       |
@@ -28,11 +28,6 @@
 | Jaeger LeCoultre Reverso Tribute | White           | Brown     | 40.1x24.4     | Manual       | ?         | 8900       |
 | IWC Ingenieur                    | Green           | Steel     | 40            | Auto         | Sport     | 11700      |
 
-**Links:**
-- https://teddybaldassarre.com/products/prospex-sea-srpe05
-- https://teddybaldassarre.com/products/spb210-prospex-alpinist-automatic-gold-finish-39-5mm-green-on-strap
-
 **Grails:**
 - Vacheron Constantin Traditionelle Guilloche Dial 82172/000R-9888
 - A Lange & Sohne Zeitwerk Date
-

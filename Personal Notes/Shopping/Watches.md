@@ -18,6 +18,7 @@
 | **Watch**                        | **Dial Colour** | **Strap** | **Dial Size** | **Movement** | **Style** | **Retail** |
 | [Seiko Alpinist](https://teddybaldassarre.com/products/spb210-prospex-alpinist-automatic-gold-finish-39-5mm-green-on-strap)| Green/Gold      | Brown     | 39.5          | Auto         | Field     | 620        |
 | [Seiko King Turtle](https://teddybaldassarre.com/products/prospex-sea-srpe93)| Green/Black     | Green     | 45            | Auto         | Dive      | 596        |
+| [Seiko Spirit](https://www.chrono24.com/seiko/spirit--id42956884.htm?searchHash=6631110d_dhardS&pos=2)| Black     | Steel     | 38            | Auto         | Sport | 596        |
 | Tutor Black Bay 54               | Black/Gold      | Steel     | 37            | Auto         | Dive      | 4000       |
 | Tutor North Flag                 | Black/Lime      | Steel     | 40            | Auto         | Sport     | 4000       |
 | Longines Spirit Zulu Time        | Black/Green     | Brown     | 39            | Auto         | GMT       | 5000       |

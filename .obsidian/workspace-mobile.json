@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Shopping/To Purchase.md",
+                "file": "Personal Notes/Lists/To Read.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Purchase"
+              "title": "To Read"
             }
           }
         ]
@@ -176,11 +176,18 @@
   },
   "active": "0979809a16da6601",
   "lastOpenFiles": [
+    "Personal Notes/Shopping/To Purchase.md",
+    "/Personal Notes/Shopping/Watches.md",
+    "/Personal Notes/Shopping",
+    "/Personal Notes",
+    "/HPE Notes/To Do.md",
+    "/HPE Notes/K9/Stories and Bugs/AS-197203.md",
+    "/HPE Notes/K9/Stories and Bugs",
+    "/HPE Notes/K9",
+    "/HPE Notes",
     "Personal Notes/Lists/To Read.md",
     "/Personal Notes/Shopping/To Purchase.md",
     "/Personal Notes/Shopping/Tacoma Mods + Additions.md",
-    "/Personal Notes/Shopping",
-    "/Personal Notes",
     "Personal Notes/Lists/To Watch.md",
     "Personal Notes/Relationships/Questions.md",
     "Personal Notes/Vehicles/Tacoma Registration.md",
@@ -188,8 +195,6 @@
     "Personal Notes/Vehicles",
     "/Personal Notes/Shopping/Outdoor Gear.md",
     "/Personal Notes/Shopping/Clothes.md",
-    "/HPE Notes/To Do.md",
-    "/HPE Notes",
     "/Personal Notes/Vehicles/Tacoma Registration.md",
     "/Personal Notes/Travel/2025/Denver Thanksgiving.md",
     "Personal Notes/Travel/2025/Denver Thanksgiving.md",
@@ -199,17 +204,12 @@
     "/Personal Notes/Vehicles",
     "/Personal Notes/Food",
     "Personal Notes/Shopping/Outdoor Gear.md",
-    "/HPE Notes/K9/Stories and Bugs/AS-197203.md",
-    "/HPE Notes/K9/Stories and Bugs",
-    "/HPE Notes/K9",
     "Personal Notes/Shopping/Watches.md",
     "/HPE Notes/K9/Stories and Bugs/AS-207596.md",
     "/HPE Notes/Git.md",
     "Personal Notes/Relationships/Lizzie.md",
     "Personal Notes/Relationships/List.md",
     "Personal Notes/Teardrop/11-10 Meeting.md",
-    "Personal Notes/Shopping/To Purchase.md",
-    "/HPE Notes/K9/Stories and Bugs/AS-208654.md",
-    "/Personal Notes/Shopping/Watches.md"
+    "/HPE Notes/K9/Stories and Bugs/AS-208654.md"
   ]
 }

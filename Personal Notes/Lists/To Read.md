@@ -12,6 +12,7 @@ Sci-fi
 - Dungeon Crawler Carl (Josh recommended)
 - The man in the high castle
 - Edge Chronicles (Logan)
+- Project Hail Mary w
 
 Philosophy
 - Zen and the Art of Motorcycle Maintenance 
@@ -37,6 +38,7 @@ Classic
 
 Nonfiction
 - Liftoff
+- Coming of age in the milky way 
 
 Self Help
 - No More Mr. Nice Guy

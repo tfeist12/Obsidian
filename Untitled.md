@@ -3,5 +3,5 @@ Rossignol Soul 7 HD Skis for sale
 136-106-126 Tip to tail
 Includes adjustable Look frame bindings
 Includes poma skins
-Great skis with n
+Primarily used on resort with a few 
 

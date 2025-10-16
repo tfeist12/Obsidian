@@ -10,7 +10,7 @@
 
 Disappointed with the lack of communication
 
-How many laid off in total on Homefleet
+How many laid off in total on Homefleet?
 
 Why such a sudden change from Wednesday. I'm sure Matt and Jonathan weren't too pleased to get a "just kidding" message a few days after being laid off
 

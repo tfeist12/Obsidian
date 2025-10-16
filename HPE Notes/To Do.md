@@ -7,8 +7,8 @@
 - fix failing test in review CI
 
 
-Why such a sudden change from Wednesday. I'm sure MAtt and Jonathan weren't too please to get a "just kidding" message a few days later
+Why such a sudden change from Wednesday. I'm sure MAtt and Jonathan weren't too pleased to get a "just kidding" message a few days after being laid off
 
-How to I maintain confidence in high level management if it's clear they aren't sure about funding homefleet
+How to I maintain confidence in high level management if it's clear they aren't sure about funding Homefleet
 
 Disappointed with the lack of communication

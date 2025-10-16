@@ -12,6 +12,6 @@ Disappointed with the lack of communication
 
 How many laid off in total on Homefleet
 
-Why such a sudden change from Wednesday. I'm sure MAtt and Jonathan weren't too pleased to get a "just kidding" message a few days after being laid off
+Why such a sudden change from Wednesday. I'm sure Matt and Jonathan weren't too pleased to get a "just kidding" message a few days after being laid off
 
-How to I maintain confidence in high level management if it's clear they aren't sure about funding Homefleet
+How do I trust the management layers making these decisions, who seem not to understand that they were deciding between doing or not doing Homefleet, and then had to be pressured by Charan to find money to reduce the gutting of homefleet

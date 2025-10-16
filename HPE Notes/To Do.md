@@ -7,4 +7,8 @@
 - fix failing test in review CI
 
 
-Disapp
+Why such a sudden change from Wednesday. I'm sure MAtt and Jonathan weren't too please to get a "just kidding" message a few days later
+
+How to I maintain confidence in high level management if it's clear they aren't sure about funding homefleet
+
+Disappointed with the lack of communication

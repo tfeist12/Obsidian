@@ -3,7 +3,9 @@
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Review Jonathan's Ippodd state monitoring change now that 
-- Talk to Asha about starting a firmware update on hardware which I can watch. We are seeing an issue where reboot causes the switch to go down and not come back
+- Firmware update fix options:
+	- If cluster is recoverable, watch firmware update and DNA collect for switch folks
+	- Test manual firmware update to see if we get into a similar state
 
 ```
 2025-10-17 16:37:21,030 379[454] I switchd_service.cc:488:UploadFirmware API UploadFirmware requested

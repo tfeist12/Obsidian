@@ -7,6 +7,8 @@
 	- If cluster is recoverable, watch firmware update and DNA collect for switch folks
 	- Test manual firmware update to see if we get into a similar state
 
+GL.10.15.1010
+
 ```
 2025-10-17 16:37:21,030 379[454] I switchd_service.cc:488:UploadFirmware API UploadFirmware requested
 2025-10-17 16:37:21,031 379[454] I switchd_service.cc:494:UploadFirmware UploadFirmwareRequest:

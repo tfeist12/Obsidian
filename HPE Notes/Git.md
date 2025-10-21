@@ -26,9 +26,8 @@ git pull --rebase
 ```
 git push origin HEAD:prj-fleetos
 ```
-	or
 ```
-git worktree remove 
+git worktree remove /data/workspace/feist/<story>
 ```
 
 ------------------------------------------------------------------

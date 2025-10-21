@@ -1,13 +1,13 @@
 **Starting: Order of operations**
 ```
-git checkout -b feist-<story> origin/prj-fleetos-next
+git checkout -b feist-<story> origin/prj-fleetos
 ```
 	or
 ```
 git checkout -b feist-<story>
 ```
 ```
-git branch --set-upstream-to origin/prj-fleetos-next
+git branch --set-upstream-to origin/prj-fleetos
 ```
 
 ------------------------------------------------------------------
@@ -27,10 +27,10 @@ git push origin HEAD:prj-fleetos-next
 
 **Move Current Branch to Worktree**
 ```
-
+git checkout prj-fleetos
+cd -
+git worktree add /data/workspace/feist/<story> feist-<story>
 ```
-
-
 
 ------------------------------------------------------------------
 

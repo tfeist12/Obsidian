@@ -25,6 +25,10 @@ git push origin HEAD:prj-fleetos-next
 
 ------------------------------------------------------------------
 
+**Move Existing Branch to Worktree**
+
+------------------------------------------------------------------
+
 **Check Upstream Branch**
 ```
 git branch -vv

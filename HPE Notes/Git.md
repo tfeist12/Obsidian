@@ -28,8 +28,7 @@ git push origin HEAD:prj-fleetos-next
 **Move Current Branch to Worktree**
 ```
 git checkout prj-fleetos
-cd -
-git worktree add /data/workspace/feist/<story> feist-<story>
+it worktree add /data/workspace/feist/<story> feist-<story>
 ```
 
 ------------------------------------------------------------------
@@ -53,11 +52,17 @@ git fetch origin refs/private/phabusername__as-1234:<LOCAL_BRANCH_NAME>
 ```
 git checkout <LOCAL_BRANCH_NAME>
 ```
+	or
+```
+git worktree add -b <branch-name> /data/workspace/feist/<branch-name> FETCH_HEAD
+```
 
 Track private branch:
 ```
 git branch --set-upstream-to origin/private/phabusername__as-123456
 ```
+
+**
 
 ------------------------------------------------------------------
 

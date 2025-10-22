@@ -7,6 +7,4 @@
 - Test Recovery mode on hardware
 - If the condition is set, the async request has been sent
 
-GL.10.15.1010
 
-	populate inactive firmware version

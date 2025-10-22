@@ -14,3 +14,4 @@ GL.10.15.1010
 	error channel
 	better logging
 
+SonarCube doesn't provide the full picture of code coverage as it uses the  don't include the .meta.yml file filters provided by Irina's team . Teams should likely start reporting both SonarCube and Qlik dashboard as this will show directory coverage, as we

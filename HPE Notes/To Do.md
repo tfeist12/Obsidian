@@ -14,4 +14,4 @@ GL.10.15.1010
 	error channel
 	better logging
 
-don't reissue upload request
+don't reissue upload request after controller restart

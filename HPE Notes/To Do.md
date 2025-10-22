@@ -15,6 +15,5 @@ GL.10.15.1010
 	better logging
 
 With regard to K9 code coverage numbers:
-SonarCube doesn't provide the full picture of code coverage as it just shows line coverage within individual directories. This doesn't include the .meta.yml filters provided by Irina's team. Teams should likely start reporting coverage from both SonarCube and Qlik dashboard as this will show directory coverage, individual commit coverage, and full team coverage for a better representation.
-
+SonarCube doesn't provide the full picture of code coverage as it just shows line coverage within full directories. This doesn't include the .meta.yml file/directory filters provided by Irina's team. Teams should likely start reporting coverage from both SonarCube and Qlik dashboard as this will show directory coverage, individual commit coverage, and full team coverage for a better representation.
 Here is the link to Qlik dashboard if you want to check it out:

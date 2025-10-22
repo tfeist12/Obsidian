@@ -1,13 +1,17 @@
 **Starting: Order of operations**
 ```
-git checkout -b feist-<story> origin/prj-fleetos-next
+git checkout -b feist-<story> origin/prj-fleetos
 ```
 	or
 ```
 git checkout -b feist-<story>
 ```
 ```
-git branch --set-upstream-to origin/prj-fleetos-next
+git branch --set-upstream-to origin/prj-fleetos
+```
+	or
+```
+git worktree add -b feist-<story> /data/workspace/feist/<story> origin/prj-fleetos
 ```
 
 ------------------------------------------------------------------
@@ -20,7 +24,18 @@ git phabsend squash
 git pull --rebase
 ```
 ```
-git push origin HEAD:prj-fleetos-next
+git push origin HEAD:prj-fleetos
+```
+```
+git worktree remove /data/workspace/feist/<story>
+```
+
+------------------------------------------------------------------
+
+**Move Current Branch to Worktree**
+```
+git checkout prj-fleetos
+git worktree add /data/workspace/feist/<story> feist-<story>
 ```
 
 ------------------------------------------------------------------
@@ -45,7 +60,15 @@ git fetch origin refs/private/phabusername__as-1234:<LOCAL_BRANCH_NAME>
 git checkout <LOCAL_BRANCH_NAME>
 ```
 
-Track private branch:
+**Fetch from review:**
+```
+git phabsend --fetch <DXXXXX>
+```
+```
+git worktree add -b <branch-name> /data/workspace/feist/<branch-name> FETCH_HEAD
+```
+
+**Track private branch:**
 ```
 git branch --set-upstream-to origin/private/phabusername__as-123456
 ```

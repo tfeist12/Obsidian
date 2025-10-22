@@ -9,6 +9,7 @@
 
 GL.10.15.1010
 
-populate inactive firmware version
-
-error channel
+	populate inactive firmware version
+	async upload
+	error channel
+	better logging

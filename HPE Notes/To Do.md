@@ -13,3 +13,5 @@ GL.10.15.1010
 	async upload
 	error channel
 	better logging
+
+don't reissue upload request

@@ -4,7 +4,8 @@
 - Look into git worktrees
 - Make story for updating the kubectl dsp plugin.
 - Review Jonathan's Ippodd state monitoring change
-- Test Recovery mode on hardware
-- If the condition is set, the async request has been sent
 
+Rerunning zeus tests
+Final round of hfsim testing
+St
 

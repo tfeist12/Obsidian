@@ -2,7 +2,7 @@
 
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
-- Review Jonathan's Ippodd state monitoring change
+- Review Jonathan's IP-Podd state monitoring change
 
 Create questions for meeting with Charan on Wednesday
 - Does the current R3 timeline account for the QA layoffs teams recently saw

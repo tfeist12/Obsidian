@@ -4,6 +4,7 @@
 - Make story for updating the kubectl dsp plugin.
 - Review Jonathan's Ippodd state monitoring change
 
+async upload
 Switchd fake mode firmware update support story was checked in today
 Rerunning zeus tests
 Final round of hfsim testing

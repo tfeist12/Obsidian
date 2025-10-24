@@ -36,5 +36,3 @@ TV Shows:
 - Caesar Milian Dog Training
 - Hamiltons Pharmacopeia
 - Silicon Valley
-
-Add to Plex:

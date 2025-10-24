@@ -1,12 +1,12 @@
-### Week of 10/6/25
+### Week of 10/21/25
 
 **To Do:**
-- Look into git worktrees
 - Make story for updating the kubectl dsp plugin.
-- Review Jonathan's Ippodd state monitoring change
-- Test Recovery mode on hardware
-- If the condition is set, the async request has been sent
+- Review Jonathan's IP-Podd state monitoring change
 
-GL.10.15.1010
+Create questions for meeting with Charan on Wednesday
+- Does the current R3 timeline account for the QA layoffs teams recently saw
+- How do we remain confident there will be work for K9 after R3 if we knew the team was about to be laid off
+- 
 
-populate inactive firmware version
+-ACTIVE spec and controller restart together are a problem since we can't use an inactive fw version update to determine when to start reboot

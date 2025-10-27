@@ -13,4 +13,4 @@
 	- When is their contract up?
 - Data Intelligence
 - Need examples
-- Ask Britt 
+- Ask Britt for recommendations

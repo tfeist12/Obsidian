@@ -10,5 +10,6 @@
 **General Notes:**
 - Communication Improvements
 - Discuss contractors.
+	- When is their contract up?
 - Data Intelligence
 - Need examples

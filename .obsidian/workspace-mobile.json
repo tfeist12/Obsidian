@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HPE Notes/To Do.md",
+                "file": "Personal Notes/Relationships/Megan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "Megan"
             }
           }
         ],
@@ -191,9 +191,12 @@
   },
   "active": "e26cfc2463b03751",
   "lastOpenFiles": [
-    "/HPE Notes/Git.md",
+    "/HPE Notes/Charan Q&A.md",
     "/HPE Notes/To Do.md",
     "/HPE Notes",
+    "HPE Notes/To Do.md",
+    "Personal Notes/Relationships/Megan.md",
+    "/HPE Notes/Git.md",
     "/Personal Notes/Shopping/To Purchase.md",
     "/Personal Notes/Shopping/Clothes.md",
     "/Personal Notes/Shopping",
@@ -223,8 +226,6 @@
     "/Personal Notes/Vehicles",
     "Personal Notes/Shopping/Outdoor Gear.md",
     "Personal Notes/Shopping/Watches.md",
-    "/HPE Notes/K9/Stories and Bugs/AS-207596.md",
-    "Personal Notes/Relationships/Lizzie.md",
-    "Personal Notes/Relationships/List.md"
+    "/HPE Notes/K9/Stories and Bugs/AS-207596.md"
   ]
 }

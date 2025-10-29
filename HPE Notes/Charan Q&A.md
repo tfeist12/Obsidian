@@ -7,8 +7,9 @@
 	- Curious if you can speak to this decision more. I understand it as a cost saving measure but are there any other driving factors
 	- In our experience over the past few months, training new contractors has slowed our progress.
 	- When are their contracts until?
+- Communication Improvements
+	- First time ive ever had direct communication with you. Perhaps doing a meeting like this more often would be useful
 
 **General Notes:**
-- Communication Improvements
 - Data Intelligence
 - Need examples

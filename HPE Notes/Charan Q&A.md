@@ -1,4 +1,6 @@
 **Wednesday 10/29/25**
+- Communication Improvements
+	- First time I've ever had direct communication with you. Perhaps doing a meeting like this more often would be useful
 - Does the current R3 timeline account for the QA layoffs teams recently saw?
 	- We lost the closest person we had to a networking expert as well as someone primarily focused on test automation creation so this will slow our progress
 - It has been made clear in all hands meetings that HPE's goal is to approach a 70% India and 30% US employee split whereas cluster services is the opposite split.
@@ -9,8 +11,6 @@
 	- How did you manage to convince upper management to keep K9?
 	- Was this because in that time you learned additional funding had been found or was there discussion as at a higher level
 	- If the reason is the R3 timeline, how we remain confident that there will be a place for us after this release is completed?
-- Communication Improvements
-	- First time I've ever had direct communication with you. Perhaps doing a meeting like this more often would be useful
 - Data Intelligence
 	- Is there still a plan to have K9 focus on data intelligence development in the future
 

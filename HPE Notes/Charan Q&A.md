@@ -10,7 +10,9 @@
 	- If the reason is the R3 timeline, how we remain confident that there will be a place for us after this release is completed?
 - Communication Improvements
 	- First time I've ever had direct communication with you. Perhaps doing a meeting like this more often would be useful
+- Data Intelligence
+	- Is there still a plan to have K9 focus on data intelligence development in the future
+	
 
 **General Notes:**
-- Data Intelligence
 - Need examples

@@ -6,9 +6,9 @@
 - It has been made clear that HPE's goal is to approach a 70% India and 30% US employee split whereas cluster services is the opposite split.
 	- Curious if you can speak to this decision more. I understand it as a cost saving measure but are there any other driving factors
 	- In our experience over the past few months, training new contractors has slowed our progress.
-	- When are their contracts until?
+	- The time difference is challenging when we have to closely monitor their work
 - Communication Improvements
-	- First time ive ever had direct communication with you. Perhaps doing a meeting like this more often would be useful
+	- First time I've ever had direct communication with you. Perhaps doing a meeting like this more often would be useful
 
 **General Notes:**
 - Data Intelligence

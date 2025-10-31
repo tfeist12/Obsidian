@@ -62,7 +62,7 @@ git checkout <LOCAL_BRANCH_NAME>
 
 **Fetch from review:**
 ```
-git phabsend --fetch <DXXXXX>
+git phabsend fetch <DXXXXX>
 ```
 ```
 git worktree add -b <branch-name> /data/workspace/feist/<branch-name> FETCH_HEAD

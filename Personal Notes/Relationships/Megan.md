@@ -1,5 +1,7 @@
-To watch:
+To Watch:
 - Black mirror
-- Ted 
+- Ted lasso
+- 
 
-To do:
+To Do:
+- Climbing

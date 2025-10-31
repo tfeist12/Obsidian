@@ -3,3 +3,4 @@
 - Escape by Journey
 - Stranger in Town by Bob Seger and the Silver Bullet Band
 - Vide Noir by Lord Huron
+- Remain in Light by Talking Heads

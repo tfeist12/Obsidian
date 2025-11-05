@@ -14,9 +14,10 @@
 - Kitchen Aid meat grinder
 - Cast Iron meat press
 - Breville Toaster Oven Air Fryer
-- Large pestle and morter
+- Large pestle and mortar
 - Food processor
 - XL Oval Le Cruset Dutch oven
+- Immersion blender
 
 **Services**
 - West-side Concrete Pour ($6000)

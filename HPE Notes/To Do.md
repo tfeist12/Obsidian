@@ -6,7 +6,6 @@
 
 **Neovim Config**
 - cheatsheet
-- copilot cmp
 - nvdash
 - plugin.lua
 

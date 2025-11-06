@@ -7,6 +7,7 @@
 **Neovim Config**
 - cheatsheet
 - harpoon remove and wrap
+- migration summary
 
 
 

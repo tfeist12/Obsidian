@@ -5,8 +5,6 @@
 - Review Jonathan's IP-Podd state monitoring change
 
 **Neovim Config**
-- cheatsheet
-- cmp mapping
 - harpoon remove, wrap, and exclude
 
 

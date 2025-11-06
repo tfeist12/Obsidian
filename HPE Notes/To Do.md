@@ -7,5 +7,7 @@
 **Neovim Config**
 - cheatsheet
 - copilot cmp
+- nvdash
+- 
 
 

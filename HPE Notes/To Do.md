@@ -3,9 +3,3 @@
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Review Jonathan's IP-Podd state monitoring change
-
-**Neovim Config**
-
-
-
-

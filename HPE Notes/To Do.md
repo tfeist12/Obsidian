@@ -7,7 +7,8 @@
 **Neovim Config**
 - cheatsheet
 - harpoon remove and wrap
-- migration summary
+- migration summary -> readme
+- configure golines to 120 character limit
 
 
 

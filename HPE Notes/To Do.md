@@ -8,7 +8,6 @@
 - cheatsheet
 - cmp mapping
 - harpoon remove, wrap, and exclude
-- migration summary -> readme
 
 
 

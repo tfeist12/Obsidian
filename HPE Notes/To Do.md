@@ -7,7 +7,6 @@
 **Neovim Config**
 - cheatsheet
 - nvdash
-- plugin.lua
 
 
 

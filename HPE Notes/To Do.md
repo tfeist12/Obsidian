@@ -8,6 +8,6 @@
 - cheatsheet
 - copilot cmp
 - nvdash
-- 
+- plugin.lua
 
 

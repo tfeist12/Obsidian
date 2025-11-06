@@ -5,7 +5,6 @@
 - Review Jonathan's IP-Podd state monitoring change
 
 **Neovim Config**
-- harpoon remove, wrap, and exclude
 
 
 

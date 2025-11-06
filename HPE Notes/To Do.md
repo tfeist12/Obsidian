@@ -6,7 +6,7 @@
 
 **Neovim Config**
 - cheatsheet
-- nvdash
+- harpoon remove and wrap
 
 
 

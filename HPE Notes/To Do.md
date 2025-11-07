@@ -8,5 +8,4 @@
 -ACTIVE spec and controller restart together are a problem since we can't use an inactive fw version update to determine when to start reboot
 
 
-Britt questions:
-- API separation
+Order of ops for ippod 1.5

@@ -3,7 +3,7 @@
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Review Jonathan's IP-Podd state monitoring change
-
+- Check character length next time using office  monitors. Maybe increase character limit to 128
 
 -ACTIVE spec and controller restart together are a problem since we can't use an inactive fw version update to determine when to start reboot
 
@@ -26,5 +26,3 @@ add OSD GRPC port env var to ippodd
 git cherry-pick cf13705a7f1 afac2ec95e6 27bc7723d5f c05abf57195
 git phabsend pr --update D46631
 
-
-check character length next time using office  

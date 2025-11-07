@@ -12,10 +12,12 @@ Sci-fi
 - Dungeon Crawler Carl (Josh recommended)
 - The man in the high castle
 - Edge Chronicles (Logan)
-- Project Hail Mary w
+- Project Hail Mary 
 
-Philosophy
-- Zen and the Art of Motorcycle Maintenance 
+Philosophy 
+
+Finance
+- The Richest Man in Babylon 
 
 Drama
 - Don Quixote

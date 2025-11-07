@@ -5,3 +5,6 @@ Arm Farm
 - Military press machine
 - Standing curl
 - incline curl
+- Preacher curl
+- Skullcrusher
+- Forearm

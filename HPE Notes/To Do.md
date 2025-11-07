@@ -8,4 +8,13 @@
 -ACTIVE spec and controller restart together are a problem since we can't use an inactive fw version update to determine when to start reboot
 
 
-Order of ops for ippod 1.5
+```
+$ git log --oneline -10
+5076a8ea1df (HEAD -> feist-AS210224-ippoddOsdGrpc) unit tests
+617c2a2ceae create osd file client and make requests
+0f85ab218d6 add osd api
+8628b88f567 add OSD GRPC port env var to ippodd
+bda199ad667 2 GRPC Ports for ippodd
+```
+
+Order of ops for ippod 1.5:

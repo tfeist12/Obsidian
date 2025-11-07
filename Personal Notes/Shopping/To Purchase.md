@@ -6,7 +6,6 @@
 - [Noco Boost Plus GB40](https://no.co/gb40) ($100)
 - Tap and Die set
 - Code reader
-- Angle Grinder discs
 
 **Kitchen**
 - [Hestan ProClad Titum Nonstick Skillets](https://hestanculinary.com/collections/titum/products/probond-forged-stainless-steel-nonstick-skillet?variant=40871280410667)($300)
@@ -14,10 +13,9 @@
 - Kitchen Aid meat grinder
 - Cast Iron meat press
 - Breville Toaster Oven Air Fryer
-- Large pestle and mortar
+- Large pestle and morter
 - Food processor
 - XL Oval Le Cruset Dutch oven
-- Immersion blender
 
 **Services**
 - West-side Concrete Pour ($6000)

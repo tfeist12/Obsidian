@@ -1,4 +1,4 @@
-- [Canada Goose MacMillan Parka](https://www.canadagoose.com/ca/en/pr/macmillan-parka-2080M.html?Color=61) (CA$1325)
+- [Canada Goose MacMillan Parka](https://www.canadagoose.com/ca/en/pr/macmillan-parka-2080M.html?Color=61)
 - Marmot hat
 - Black button up
 - Brown Levis

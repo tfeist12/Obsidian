@@ -13,7 +13,7 @@ wsl --install -d Debian
 
 [Neovim Install](https://github.com/neovim/neovim/blob/master/INSTALL.md):
 ```
-curl -LO https://github.com/neovim/neovim/releases/download/v0.11.5/nvim-linux-x86_64.tar.gz
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz
 sudo rm -rf /usr/local/nvim-linux64.tar.gz
 sudo tar -C /usr/local -xzf nvim-linux64.tar.gz
 ```

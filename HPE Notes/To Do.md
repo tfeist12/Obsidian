@@ -25,31 +25,3 @@ git add .
 add OSD GRPC port env var to ippodd
 git cherry-pick 0f85ab218d6 617c2a2ceae 5076a8ea1df
 git phabsend pr --update D46631
-
-```
-        -- LSP servers
-        "lua-language-server",
-        "bash-language-server",
-        "python-lsp-server",
-        "gopls",
-        "html-lsp",
-        "css-lsp",
-        "deno",
-        "jq-lsp",
-        "yaml-language-server",
-        "helm-ls",
-        -- Formatters
-        "stylua",
-        "shfmt",
-        "blue",
-        "usort",
-        "gofumpt",
-        "goimports-reviser",
-        "golines",
-        "prettier",
-        -- Linters
-        "shellcheck",
-        "jsonlint",
-        "yamllint",
-
-```

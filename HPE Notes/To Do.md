@@ -20,7 +20,7 @@ bda199ad667 2 GRPC Ports for ippodd
 **Order of Ops for Ippod 1.5:**
 git phabsend fetch D46594
 git worktree add -b feist-AS210224-ippoddOsdGrpc /data/workspace/feist/ippoddOsdGrpc FETCH_HEAD
-git apply /tmp/helm.patch
+git apply /tmp/britt.patch
 git add .
 add OSD GRPC port env var to ippodd
 git cherry-pick 0f85ab218d6 617c2a2ceae 5076a8ea1df

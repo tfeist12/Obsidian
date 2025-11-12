@@ -3,6 +3,7 @@
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Review Jonathan's IP-Podd state monitoring change
+- Make switch fw update demo on hw if that is what we decide to demo at sprint review
 
 
 ```

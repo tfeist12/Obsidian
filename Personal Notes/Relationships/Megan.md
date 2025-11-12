@@ -1,0 +1,3 @@
+- Ideally want to work through these issues
+- Sexual connection hasn't been great so far
+- I'm a very independent person and I have been feeling a bit smothered recently. Perhaps being more intentional about our time could be a good thing

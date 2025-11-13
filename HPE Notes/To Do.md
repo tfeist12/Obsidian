@@ -5,7 +5,7 @@
 - Review comments and test scenarios on ippodd osd add and remove ip address requests change
 
 **Firmware update notes
-- Unable to do concurrent switch firmware updates. They must be done serially. 
+- Webhook validators unable to do concurrent switch firmware updates. They must be done serially. 
 - We also verify that a firmware image file exists in lir-data for the requested version before we begin the update
 - Offline -> Upload -> Reboot -> Online
 - State machine sets conditions on our switch custom resource for each state

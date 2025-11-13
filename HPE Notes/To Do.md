@@ -7,6 +7,6 @@
 **Firmware update notes
 - offline -> upload -> reboot -> online
 - state machine sets conditions on our switch custom resource for each state
-- offline and online mode are set almost instantly. upload takes about 5 minutes
+- offline and online mode are set almost instantly. upload takes about 5 minutes. reboot takes about 3
 
 - In its current state we perform a real firmware update with real API calls when our platform type is raider hardware. If it is hfsim we perform a mock firmware update managed by the switch controller. It follows the same steps with similar wait times but no API calls happen

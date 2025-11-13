@@ -7,6 +7,6 @@
 **Firmware update notes
 - offline -> upload -> reboot -> online
 - state machine sets conditions on our switch custom resource for each state
-- offline and online mode are set almost instantly. upload takes about 5 minutes. reboot takes about 3
-
+- offline and online mode are set almost instantly. upload takes about 5 minutes. reboot takes about 4
 - In its current state we perform a real firmware update with real API calls when our platform type is raider hardware. If it is hfsim we perform a mock firmware update managed by the switch controller. It follows the same steps with similar wait times but no API calls happen
+- NVGrid has an update to handle a switch firmware update in switchd fake mode (hfsim) and to improve our unit tests. Planning to work on this in the coming sprint

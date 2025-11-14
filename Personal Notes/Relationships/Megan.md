@@ -1,0 +1,5 @@
+- Ideally want to work through these issues
+- Sexual connection hasn't been great so far
+- I'm a very independent person and I have been feeling a bit smothered recently. Perhaps being more intentional about our time could be a good thing
+- I don't want a relationship to feel like a chore. I want it to fun and somewhat playful, especially so early
+- Appreciation

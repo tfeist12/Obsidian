@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Lists/To Read.md",
+                "file": "Personal Notes/Shopping/Record Wishlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Read"
+              "title": "Record Wishlist"
             }
           }
         ]
@@ -174,21 +174,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0979809a16da6601",
+  "active": "23c5eb95db6aa39e",
   "lastOpenFiles": [
-    "Personal Notes/Workout/To Do.md",
-    "Personal Notes/Shopping/Outdoor Gear.md",
-    "Personal Notes/Shopping/To Purchase.md",
-    "Personal Notes/Shopping/Record Wishlist.md",
-    "Personal Notes/Shopping/Clothes.md",
-    "Personal Notes/Lists/Concerts.md",
-    "/HPE Notes/To Do.md",
-    "/HPE Notes",
-    "Personal Notes/Lists/To Read.md",
+    "/Personal Notes/Relationships/Megan.md",
     "Personal Notes/Relationships/Megan.md",
+    "/Personal Notes/Relationships",
+    "/Personal Notes",
+    "/HPE Notes/To Do.md",
+    "/HPE Notes/K9/Stories and Bugs/AS-210224.md",
+    "HPE Notes/K9/Stories and Bugs/AS-210224.md",
+    "/HPE Notes/K9/Stories and Bugs",
+    "/HPE Notes/K9",
+    "/HPE Notes",
+    "Personal Notes/Shopping/Clothes.md",
+    "Personal Notes/Shopping/To Purchase.md",
+    "Personal Notes/Shopping/Outdoor Gear.md",
+    "Personal Notes/Lists/To Read.md",
+    "Personal Notes/Workout/To Do.md",
+    "Personal Notes/Shopping/Record Wishlist.md",
+    "Personal Notes/Lists/Concerts.md",
     "/Personal Notes/Shopping/Record Wishlist.md",
     "/Personal Notes/Shopping",
-    "/Personal Notes",
     "/HPE Notes/Charan Q&A.md",
     "/HPE Notes/Git.md",
     "HPE Notes/Charan Q&A.md",
@@ -201,16 +207,10 @@
     "Personal Notes/Lists/To Watch.md",
     "/Personal Notes/Shopping/Watches.md",
     "/HPE Notes/K9/Stories and Bugs/AS-197203.md",
-    "/HPE Notes/K9/Stories and Bugs",
-    "/HPE Notes/K9",
     "/Personal Notes/Shopping/Tacoma Mods + Additions.md",
     "Personal Notes/Relationships/Questions.md",
-    "Personal Notes/Vehicles/Tacoma Registration.md",
-    "Personal Notes/Vehicles/VW CC.md",
     "Personal Notes/Vehicles",
-    "/Personal Notes/Shopping/Outdoor Gear.md",
     "/Personal Notes/Travel/2025",
-    "/Personal Notes/Travel",
-    "/Personal Notes/Vehicles"
+    "/Personal Notes/Travel"
   ]
 }

@@ -4,3 +4,4 @@
 - Make story for updating the kubectl dsp plugin.
 - Review comments and test scenarios on ippodd osd add and remove ip address requests change
 - nvimtree top level directory
+- copilotchat in statusline

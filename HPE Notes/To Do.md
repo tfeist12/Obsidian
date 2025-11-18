@@ -3,3 +3,5 @@
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Review comments and test scenarios on ippodd osd add and remove ip address requests change
+
+what happens if I kill the controller during the rebooting phase of fw update

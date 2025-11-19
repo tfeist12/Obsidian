@@ -25,3 +25,7 @@ firmware version spec -> prefix can be extracted out of and used to check model
 switch part number -> part number maps to model
 
 
+
+i have a switch firmware version which is being used to determine which firmware image to use to upgrade to
+
+

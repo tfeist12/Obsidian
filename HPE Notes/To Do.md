@@ -14,3 +14,8 @@ Add model to the CRD?
 
 JL636A part = 8325 model = ArubaOS-CX or AOS-CX file prefix, GL version prefix
 R8Z96A part = 9300 model = AOS-CX file prefix, CL version prefix 
+
+Check part number mapping in configmap to get 
+
+GL = JL636A,8325
+CL = 

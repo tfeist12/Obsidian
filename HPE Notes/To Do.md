@@ -17,8 +17,8 @@ R8Z96A part = 9300 model = AOS-CX file prefix, CL version prefix
 
 Check part number mapping in configmap to get 
 
-GL = JL636A,8325
-CL = R8Z96A,9300
+GL version prefix = JL636A part = 8325 model
+CL version prefix = R8Z96A part = 9300 model
 
 inputs:
 firmware version spec -> prefix can be extracted out of and used to check model
@@ -27,5 +27,7 @@ switch part number -> part number maps to model
 
 
 i have a switch firmware version which is being used to determine which firmware image to use to upgrade to
+
+
 
 

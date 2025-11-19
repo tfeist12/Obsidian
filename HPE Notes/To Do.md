@@ -21,4 +21,7 @@ GL = JL636A,8325
 CL = R8Z96A,9300
 
 inputs:
-firmware version spec -> prefix can be extracted out of 
+firmware version spec -> prefix can be extracted out of and used to check model
+switch part number -> check configmap entry to
+
+

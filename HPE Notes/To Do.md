@@ -18,4 +18,4 @@ R8Z96A part = 9300 model = AOS-CX file prefix, CL version prefix
 Check part number mapping in configmap to get 
 
 GL = JL636A,8325
-CL = 
+CL = R8Z96A,9300

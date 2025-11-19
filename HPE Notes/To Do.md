@@ -19,3 +19,6 @@ Check part number mapping in configmap to get
 
 GL = JL636A,8325
 CL = R8Z96A,9300
+
+inputs:
+firmware version spec -> prefix can be extracted out of 

@@ -3,6 +3,7 @@
 - Make story for updating the kubectl dsp plugin.
 - Review comments and test scenarios on ippodd osd add and remove ip address requests change
 - make story to refactor lir-svc configmap code to use k8scommon configmap functions
+- send all open buffers to copilot
 
 Switch Firmware Versions
 GL.10.12.1000 = ArubaOS-CX_8325_10_12_1000.swi

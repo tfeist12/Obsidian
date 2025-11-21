@@ -12,7 +12,8 @@ Sci-fi
 - Dungeon Crawler Carl (Josh recommended)
 - The man in the high castle
 - Edge Chronicles (Logan)
-- Project Hail Mary 
+- Project Hail Mary
+- Story of you life and others - Ted chiang (Aiden)
 
 Philosophy 
 

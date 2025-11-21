@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Workout/To Do.md",
+                "file": "Personal Notes/Lists/To Read.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "To Read"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "0979809a16da6601",
   "lastOpenFiles": [
+    "Personal Notes/Workout/To Do.md",
     "/HPE Notes/To Do.md",
     "/HPE Notes",
     "Personal Notes/Relationships/Megan.md",
@@ -196,7 +197,6 @@
     "Personal Notes/Shopping/To Purchase.md",
     "Personal Notes/Shopping/Outdoor Gear.md",
     "Personal Notes/Lists/To Read.md",
-    "Personal Notes/Workout/To Do.md",
     "Personal Notes/Lists/Concerts.md",
     "/Personal Notes/Shopping/Record Wishlist.md",
     "/Personal Notes/Shopping",

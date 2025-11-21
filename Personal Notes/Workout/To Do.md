@@ -8,3 +8,6 @@ Arm Farm
 - Skullcrusher
 - Push down 
 - Forearm
+
+Squat every leg day 
+Replace side plank raise on leg day A

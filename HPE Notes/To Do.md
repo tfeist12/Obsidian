@@ -10,6 +10,7 @@ GL.10.12.1000 = ArubaOS-CX_8325_10_12_1000.swi
 GL.10.15.1010 = ArubaOS-CX_8325_10_15_1010.swi
 GL.10.16.1006 = ArubaOS-CX_8325_10_16_1006.swi
 CL.10.16.1006 = AOS-CX_9300-32D_10_16_1006.swi
+AOS-CX_9300S-32C8D_10.16.1006
 
 GL version prefix = JL636A part = 8325 model
 CL version prefix = R8Z96A part = 9300 model

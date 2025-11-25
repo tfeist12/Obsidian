@@ -16,3 +16,4 @@ CL.10.16.1010 = AOS-CX_9300S-32C8D_10_16_1010.swi
 GL version prefix = JL636A part = 8325 model
 CL version prefix = R8Z96A part = 9300 model
 
+helm value for the configmap json

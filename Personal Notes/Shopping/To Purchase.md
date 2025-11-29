@@ -24,4 +24,4 @@
 **Other**
 - [Garmin Nylon Watch Strap](https://www.garmin.com/en-US/p/552261/pn/010-12875-00)($150)
 - Steam Deck OLED
-- Kindle Paperwhite
+- Kindle Paperwhite Signature

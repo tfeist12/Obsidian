@@ -6,6 +6,8 @@
 - [Noco Boost Plus GB40](https://no.co/gb40) ($100)
 - Tap and Die set
 - Code reader
+- Pressure reader
+- Knee pads
 
 **Kitchen**
 - [Hestan ProClad Titum Nonstick Skillets](https://hestanculinary.com/collections/titum/products/probond-forged-stainless-steel-nonstick-skillet?variant=40871280410667)($300)

@@ -7,6 +7,8 @@
 - start working on goals
 
 
+put the scale down check before the watcher creation
 
+make the watcher 
 don't scale down if we are replicating. 
 check in the test code to 

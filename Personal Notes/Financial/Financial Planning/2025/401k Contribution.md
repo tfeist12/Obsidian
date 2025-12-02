@@ -8,7 +8,7 @@ Total contributed:
 141769 * 14% = 19847.66
 
 Contribution percentile required for limit
-141769 / 23500 = 16.576
+23500 / 141769 = 16.576%
 
 Additional money required for limit:
 23500 - 19847.66 = 3652.34
@@ -28,9 +28,10 @@ Total contributed:
 146022 * 15% = 21903.30
 
 Contribution percentile required for limit
-146022.07 / 24500 =
+24500 / 146022.07 = 16.778%
 
 Additional money required for limit:
-
+24500 - 21903.30 = 2596.70
 
 Additional percentile required for limit
+16.778 - 15 = 1.778

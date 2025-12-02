@@ -10,4 +10,12 @@ $141769 / 23500 = 16.576% Contribution required for max
 
 ------------------------------------------------
 
-2026 Assumed income
+2026 Assumed income = $141769 * 1.03 = $146022.07
+2026 Roth 401k contribution rate = 14% + 1% = 15%
+2026 Personal 401k contribution limit = $24500
+
+$146022 * 14% = $19847.66 Total contributed
+$23500 - $19847.66 = $3652.34 More required for max
+
+$141769 / 23500 = 16.576% Contribution required for max
+16.576% - 14% = 2.58% More required for max

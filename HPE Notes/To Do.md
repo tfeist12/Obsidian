@@ -12,3 +12,5 @@ put the scale down check before the watcher creation
 make the watcher 
 don't scale down if we are replicating. 
 check in the test code to 
+
+/usr/local/bin/hfcsh create --setup-module fleetos_setup_modules.virtual_rack --nodes  4 --jbofs 1 --build 1764758961893800 

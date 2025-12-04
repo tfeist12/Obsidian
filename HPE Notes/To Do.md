@@ -12,3 +12,5 @@ maybe use effective cluster version
 a8d0410c56e
 
 sw/src/ds/object/file_server/api/file_server.proto
+
+don't change ippodd package name and use file_server.proto from the file branch

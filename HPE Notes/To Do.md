@@ -10,3 +10,5 @@ differentiate between no api available (Not available yet), and actual error
 maybe use effective cluster version
 
 a8d0410c56e
+
+sw/src/ds/object/file_server/api/file_server.proto

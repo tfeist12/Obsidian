@@ -1,0 +1,3 @@
+- Payoff Truck Loan (Highest interest)
+- Once truck is paid off, begin paying $250 extra monthly to put toward mortgage principle (Amounts to $27695 in interest saved and 56 month earlier payoff)
+- Work toward personal 401K contribution limit ($24500 annually)

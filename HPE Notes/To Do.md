@@ -15,4 +15,4 @@ check in the test code to
 
 /usr/local/bin/hfcsh create --setup-module fleetos_setup_modules.virtual_rack --nodes  4 --jbofs 1 --build 1764758961893800 
 
-differentiate between no api and actual error
+differentiate between no api available, and actual error

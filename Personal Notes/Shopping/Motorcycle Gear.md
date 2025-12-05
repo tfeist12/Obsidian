@@ -33,3 +33,6 @@
 LED Indicators:
 https://ktm-versand.de/32261/ktm/led-blinkerkit
 
+Oil change kit:
+U7023151
+

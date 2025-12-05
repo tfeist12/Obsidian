@@ -1,16 +1,16 @@
 - [ ] Le Cruset lid - square and blue
 - [ ] Passport case - Olive green
 - [ ] Kitchen torch
-- [ ] Genesis ski bars (on Amazon)
-[ ] ULLERSLEV IKEA Sheepskin, light brown, 70 cm (2 ' 4 ") 57.99
-- Trader joes vitamin c firming body butter and Lavendar hand sanitizer spray  (Tyler) good stocking stuffer. 
-- [TOM FORD](https://www.holtrenfrew.com/Root-category/Womens/Designers/TOM-FORD/c/WomensTOMFORD) Signature Mini Discovery Set on sale $34 (at holt renfrew )
-- Hestra ski mitten black size 7
-- Artizia cashmere hoodie brown
-- Book: things we cannot say by Kelly Rimmer
-- Books by Lorne Fitch (AB biologist)
-- iPad ? (refurbished is great)
-- Yoga mat
-- Ugg sheepskin insoles size 6.5
-- Birks Kate White Gold and Diamond Pavé Horseshoe necklace
-- Chef preserve sealer
+- [x] Genesis ski bars (on Amazon) ✅ 2025-12-05
+- [ ] ULLERSLEV IKEA Sheepskin, light brown, 70 cm (2 ' 4 ") 57.99
+- [ ] Trader joes vitamin c firming body butter and Lavendar hand sanitizer spray  (Tyler) good stocking stuffer. 
+- [ ] [TOM FORD](https://www.holtrenfrew.com/Root-category/Womens/Designers/TOM-FORD/c/WomensTOMFORD) Signature Mini Discovery Set on sale $34 (at holt renfrew )
+- [x] Hestra ski mitten black size 7 ✅ 2025-12-05
+- [ ] Artizia cashmere hoodie brown
+- [ ] Book: things we cannot say by Kelly Rimmer
+- [ ] Books by Lorne Fitch (AB biologist)
+- [ ] iPad ? (refurbished is great)
+- [ ] Yoga mat
+- [ ] Ugg sheepskin insoles size 6.5
+- [ ] Birks Kate White Gold and Diamond Pavé Horseshoe necklace
+- [ ] Chef preserve sealer

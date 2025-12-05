@@ -25,4 +25,4 @@
 - [ ] Boat speaker
 - [ ] Propane to natural gas converter for fire pit
 - [ ] Dog ramp
-- [ ] [Vehicle OCD Organizer](https://baselayerlabs.com/car-organizers/car-organizer-set-2019-2023-chevy-silverado-gmc-sierra-1500-2500-3500/)
+- [x] [Vehicle OCD Organizer](https://baselayerlabs.com/car-organizers/car-organizer-set-2019-2023-chevy-silverado-gmc-sierra-1500-2500-3500/)

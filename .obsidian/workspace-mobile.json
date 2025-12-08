@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Gifts/Mom.md",
+                "file": "Personal Notes/Skiing/2024-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mom"
+              "title": "2024-2025"
+            }
+          },
+          {
+            "id": "1658593128e58357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Notes/Skiing/2025-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,19 +189,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0979809a16da6601",
+  "active": "23c5eb95db6aa39e",
   "lastOpenFiles": [
+    "/HPE Notes/To Do.md",
+    "/HPE Notes",
+    "Personal Notes/Skiing/2024-2025.md",
+    "Personal Notes/Skiing/2023-2024.md",
+    "Personal Notes/Skiing/2022-2023.md",
+    "Personal Notes/Skiing/2021-2022.md",
+    "Personal Notes/Skiing/2020-2021.md",
+    "Personal Notes/Skiing/2019-2020.md",
+    "Personal Notes/Skiing/2018-2019.md",
+    "Personal Notes/Skiing/2017-2018.md",
+    "Personal Notes/Skiing/2025-2026.md",
+    "Personal Notes/Gifts/Mom.md",
     "/Personal Notes/Gifts/Nannan.md",
     "/Personal Notes/Gifts/Mom.md",
     "/Personal Notes/Gifts",
     "/Personal Notes",
-    "/HPE Notes/To Do.md",
-    "/HPE Notes",
     "HPE Notes/To Do.md",
     "HPE Notes/USCIS.md",
     "Personal Notes/Shopping/Motorcycle Gear.md",
     "Personal Notes/Gifts/Dad.md",
-    "Personal Notes/Gifts/Mom.md",
     "Personal Notes/Gifts/Jordan.md",
     "Personal Notes/Gifts/Sam & Kes.md",
     "Personal Notes/Gifts/Nannan.md",
@@ -199,18 +223,8 @@
     "/Personal Notes/Financial",
     "Personal Notes/Shopping/Record Wishlist.md",
     "/Personal Notes/Financial/Financial Planning/2024/2024 Meeting.md",
-    "Personal Notes/Financial/Financial Planning/2024/2024 Meeting.md",
     "/Personal Notes/Financial/Financial Planning/2024",
-    "/Personal Notes/Shopping/To Purchase.md",
     "/Personal Notes/Shopping",
-    "Personal Notes/Shopping/To Purchase.md",
-    "Personal Notes/Lists/To Read.md",
-    "Personal Notes/Shopping/Outdoor Gear.md",
-    "Personal Notes/Relationships/Megan.md",
-    "Personal Notes/Travel/2026/Japan.md",
-    "/Personal Notes/Travel/2026/Japan.md",
-    "/Personal Notes/Travel/2026",
-    "/Personal Notes/Relationships/Megan.md",
-    "/HPE Notes/K9/Stories and Bugs/AS-210224.md"
+    "/Personal Notes/Travel/2026"
   ]
 }

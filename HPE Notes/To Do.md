@@ -5,7 +5,7 @@
 - Send all open buffers to copilot
 - Use claude as model for copilot chat
 - Start working on 2026 goals
-- 
-- 
-ashish sangwan - architech for file
+
+Ashish Sangwan - architect for file
 ran regular ring 1 for file branch
+What other tests do you recommend running?

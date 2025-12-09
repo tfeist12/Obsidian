@@ -1,6 +1,6 @@
 - I do have a lot of fun spending time with you but you feel like more of a friend than a girlfriend
-- Sexual connection has been exceptionally poor considering the point in the relationship we're at
+- I don't feel physical intimacy when I'm with you. Our sexual connection has been poor considering the point in the relationship we're at
 - For someone who claims to be independent, she is really quite needy and a little insecure
-- I'm a very independent person and I have been feeling a bit smothered recently. Perhaps being more intentional about our time could be a good thing
+- I'm a very independent and busy person and I haven't been feeling like a seeing each other twice per week has been building our connection
 - Still think we're at different points in our lives
 - Not seeing a long term future between us

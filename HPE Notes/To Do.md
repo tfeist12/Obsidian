@@ -12,7 +12,5 @@
 	- This will likely require more work with other teams
 - Understand NFS configuration and setup on HomeFleet - K9 needs a more direct connection to file related work
 
-Complete R3 and Contribute to R4 HomeFleet releases
-
-Unfinished fu
-
+Complete HomeFleet R3 release in mid January 
+Contribute to HomeFleet R4 and R5 releases

@@ -19,11 +19,11 @@ Create a minimum of three Bold Goals using any of these four FY26 categories (se
 **Britt Suggestions:
 - Get more involved in DI design - K9 doesn't need to make many changes to our current areas
 	- This will likely require more work with other teams
-
 - Understand NFS configuration and setup on HomeFleet - K9 needs a more direct connection to file related work
 
 **Other:**
 - Complete HomeFleet R3 release in mid January 
 - Contribute to HomeFleet R4 and R5 releases
 - Fort Collins Summer Intern Coordinator
+- Lead a team development project
 

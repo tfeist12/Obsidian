@@ -6,11 +6,7 @@
 - Use Claude as model for copilot chat
 - Start working on 2026 goals
 
-Ashish Sangwan - architect for file
-ran regular ring 1 for file branch
-What other tests do you recommend running?
-
-
+**Britt 2026 Suggestions:
 - Get more involved in DI design - K9 doesn't have much to do on our current stuff
-- Work with other teams to do this
-- Understand NFS configuration and setup on HomeFleet - K9 needs more direct work on file related stuff
+	- This will likely require more work with other teams
+- Understand NFS configuration and setup on HomeFleet - K9 needs a more direct connection to file related work

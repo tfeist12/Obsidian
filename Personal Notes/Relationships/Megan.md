@@ -1,3 +1,4 @@
+- I do have a lot of fun spending time with you but you feel like more of a friend than a girlfriend
 - Sexual connection has been exceptionally poor considering the point in the relationship we're at
 - For someone who claims to be independent, she is really quite needy and a little insecure
 - I'm a very independent person and I have been feeling a bit smothered recently. Perhaps being more intentional about our time could be a good thing

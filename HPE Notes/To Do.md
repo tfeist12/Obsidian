@@ -1,8 +1,8 @@
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Make story to refactor lir-svc configmap code to use k8scommon configmap functions
-- Send all open buffers to copilot
-- Use Claude as model for copilot chat - yetone/avante.nvim
+- Send all open buffers to copilot chat
+- Use Claude as model for copilot chat - code companion - https://github.com/olimorris/codecompanion.nvim
 - Start working on 2026 goals
 
 
@@ -26,4 +26,5 @@ Create a minimum of three Bold Goals using any of these four FY26 categories (se
 - Contribute to HomeFleet R4 and R5 releases
 - Fort Collins Summer Intern Coordinator
 - Lead a team development project
+- Further improve AI assisted development environment
 

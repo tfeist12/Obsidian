@@ -27,4 +27,3 @@ Create a minimum of three Bold Goals using any of these four FY26 categories (se
 - Fort Collins Summer Intern Coordinator
 - Lead a team development project
 - Further improve AI assisted development environment
-

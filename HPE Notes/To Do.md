@@ -2,7 +2,7 @@
 - Make story for updating the kubectl dsp plugin.
 - Make story to refactor lir-svc configmap code to use k8scommon configmap functions
 - Send all open buffers to copilot
-- Use Claude as model for copilot chat
+- Use Claude as model for copilot chat - yetone/avante.nvim
 - Start working on 2026 goals
 
 

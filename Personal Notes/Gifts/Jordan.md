@@ -1,1 +1,1 @@
-- [ ] TheFlightWall
+- [x] TheFlightWall

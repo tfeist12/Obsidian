@@ -66,7 +66,7 @@ When a go/coroutine blocks the run-time automatically moves an available corouti
 Today the go runtime can switch goroutines when
 - A goroutine exits
 - a goroutine makes a blocking system call
-- A goroutine makese a blocking runtime call
+- A goroutine makes a blocking runtime call
 - Occasionally when calling a normal go function
 
 Channels are a typed conduit through which you can send and receive values with the channel operator: <-

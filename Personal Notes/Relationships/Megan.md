@@ -2,3 +2,4 @@
 - For someone who claims to be independent, she is really quite needy and a little insecure
 - I'm a very independent person and I have been feeling a bit smothered recently. Perhaps being more intentional about our time could be a good thing
 - Still think we're at different points in our lives
+- Not seeing a long term future between us

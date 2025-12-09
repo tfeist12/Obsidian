@@ -9,3 +9,8 @@
 Ashish Sangwan - architect for file
 ran regular ring 1 for file branch
 What other tests do you recommend running?
+
+
+- Get more involved in DI design - K9 doesn't have much to do on our current stuff
+- Work with other teams to do this
+- Understand NFS configuration and setup on HomeFleet - K9 needs more direct work on file related stuff

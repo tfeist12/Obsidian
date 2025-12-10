@@ -7,6 +7,7 @@
 		- https://github.com/olimorris/codecompanion.nvim
 		- https://github.com/yetone/avante.nvim
 - When is HPE switching to WiPro?
+	- Giving Raj until Friday before I start adding fixes
 	- How long are we going to tolerate the mediocrity of these contractors?
 
 ```

@@ -28,7 +28,8 @@ lir-checksum
 -a = All files are listed
 -f = Print the full path prefix for each file
 -i = Don't print indentation lines
--p
--u = Displays file 
+-p = Print the protections for each file
+-u = Displays file owner or UID number
 -g = Displays file group owner of GID number
+--noreport = Turn off file/directory count at end of tree listing
 tree -afipug --noreport "$dir"

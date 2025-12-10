@@ -20,5 +20,3 @@ lir-data-f7bbbdd78-9s47k                          5/5 
 ```
 
 fingerprint a full directory
-
-put in lir-data package

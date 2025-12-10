@@ -24,3 +24,11 @@ fingerprint a full directory
 put in lir-data package
 
 lir-checksum
+
+-a = All files are listed
+-f = Print the full path prefix for each file
+-i = Don't print indentation lines
+-p
+-u = Displays file 
+-g = Displays file group owner of GID number
+tree -afipug --noreport "$dir"

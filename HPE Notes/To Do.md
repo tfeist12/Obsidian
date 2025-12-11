@@ -9,3 +9,6 @@
 - When is HPE switching to WiPro?
 	- Giving Raj until Friday before I start adding fixes
 	- How long are we going to tolerate the mediocrity of these contractors?
+
+- Add to 2026 Goals
+	- Jonathan recommended doing a brown bag about my dev environment

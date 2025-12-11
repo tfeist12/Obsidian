@@ -12,3 +12,6 @@
 
 - Add to 2026 Goals
 	- Jonathan recommended doing a brown bag about my dev environment
+		- nvim
+		- starship
+		- tmux

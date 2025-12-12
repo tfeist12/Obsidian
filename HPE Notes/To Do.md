@@ -1,6 +1,7 @@
 **To Do:**
 - Make story for updating the kubectl dsp plugin.
 - Make story to refactor lir-svc configmap code to use k8scommon configmap functions
+- Make story to do NCS systems info query when needed in lir-svc code
 - Use Claude within nvim
 	- Potentially send all open buffers to the tool
 	- Plugin Options:

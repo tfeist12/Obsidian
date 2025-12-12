@@ -10,3 +10,5 @@
 - When is HPE switching to WiPro?
 	- Giving Raj until Friday before I start adding fixes
 	- How long are we going to tolerate the mediocrity of these contractors?
+
+https://zeus.itools.nimblestorage.com/react-app/dashboard/private/prj-fleetos/latest/pvt/9999.0.0.0-1765322057717991-opt/4680758/ring1
